@@ -1,39 +1,33 @@
-# release-management
+SIG Release 的主要工作职责是在社区协调各SIG的Leader、QA等各个团队，完成OpenHarmony社区版本的发布工作。主要职责如下：
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
-
-#### 软件架构
-软件架构说明
+- 规划和计划OpenHarmony版本的发行时间表
+- 在开发/测试周期中跟踪（更新updates或功能feature）的开发状态
+- 发布协调（在QA，发行经理，SIG等范围内），参与相关SIG组和发布相关等会议
+- 负责OpenHarmony项目的交付过程协调
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+## 组织会议
+ - 会议时间：双周周五 16:30
+ - 会议申报：[SIG_Release](https://shimo.im/sheets/KH3tTqXqctGWg3Vj/MODOC)
+ - 会议链接: Welink
+ - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
 
 
-#### 特技
+## 会议纪要归档
+release management sig历次会议纪要均做归档，详情请查询历史[sig-release说明](https://gitee.com/openharmony/community/tree/master/sig/sig-release/meetings)
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## SIG组成员
+ 
+### Leader
+ - [@fma66169](https://gitee.com/fma66169)
+ 
+### Committers列表
+- @码云账号(https://gitee.com/xxx)
+
+
+## 项目清单
+
+Repository地址：https://gitee.com/openharmony/release-management
+
+*发布经理团队的相关信息均在以上Reository内，可以进入该Repository了解详情*

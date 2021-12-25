@@ -20,7 +20,7 @@ release management sig历次会议纪要均做归档，详情请查询历史[sig
 ## SIG组成员
  
 ### Leader
- - [@fma66169](https://gitee.com/fma66169)
+ - [@davidwulanxi](https://gitee.com/davidwulanxi)
  
 ### Committers列表
 - @码云账号(https://gitee.com/xxx)

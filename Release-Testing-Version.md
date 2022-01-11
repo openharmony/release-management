@@ -41,3 +41,59 @@
 | 4    | [I3ICGH](https://gitee.com/openharmony/utils_native_lite/issues/I3ICGH) | 【分布式数据管理】提供二进制Value的写入读取能力     | Testing | SIG_DataManagement   | [@widecode](https://gitee.com/widecode) |
 | 5    | [I3NSPB](https://gitee.com/openharmony/graphic_ui/issues/I3NSPB) | 【轻量级图形】UIKit组件支持margin/padding           | Testing | SIG_GraphicsandMedia | [@niulihua](https://gitee.com/niulihua) |
 | 7    | [I3NSZH](https://gitee.com/openharmony/graphic_ui/issues/I3NSZH) | 【轻量级图形】圆形/胶囊按钮支持缩放和白色蒙层动效   | Testing | SIG_GraphicsandMedia | [@niulihua](https://gitee.com/niulihua) |
+
+
+## OpenHarmony 3.0 LTS版本转测试信息：
+| **转测试版本号：OpenHarmony 3.0 LTS               |
+| ------------------------------------------------------------ |
+| **版本用途：**OpenHarmony码云master迭代二第七轮测试，验收:|
+|L0L1:无                                              |
+|L2: DFX      |
+| **API变更：**：本次转测特性不涉及API变更                 |
+| **L0L1转测试时间：2021-09-28**                                   |
+| **L0L1转测试版本获取路径：**                                   |
+| hispark_taurus版本：<br> http://download.ci.openharmony.cn/version/Release_Version/OpenHarmony_3.0_LTS/20210928_171401/version-Release_Version-OpenHarmony_3.0_LTS-20210928_171401-hispark_taurus.tar.gz |
+| hispark_taurus_linux版本：<br> http://download.ci.openharmony.cn/version/Release_Version/OpenHarmony_3.0_LTS/20210928_171228/version-Release_Version-OpenHarmony_3.0_LTS-20210928_171228-hispark_taurus_linux.tar.gz|
+| hispark_pegasus版本：<br> http://download.ci.openharmony.cn/version/Release_Version/OpenHarmony_3.0_LTS/20210928_171035/version-Release_Version-OpenHarmony_3.0_LTS-20210928_171035-hispark_pegasus.tar.gz |
+| hispark_aries版本：<br> http://download.ci.openharmony.cn/version/Release_Version/OpenHarmony_3.0_LTS/20210928_171213/version-Release_Version-OpenHarmony_3.0_LTS-20210928_171213-hispark_aries.tar.gz |
+| **L2转测试时间：2021-09-28**                                   |
+ **L2转测试版本获取路径：**                                   |
+ | hi3516dv300-L2版本：<br>http://download.ci.openharmony.cn/version/Release_Version/OpenHarmony_3.0_LTS/20210928_174719/version-Release_Version-OpenHarmony_3.0_LTS-20210928_174719-L2_hi3516dv300.tar.gz |
+ | hi3516dv300-L2版本 SDK linxu/windows：<br>http://download.ci.openharmony.cn/version/Release_Version/OpenHarmony_3.0_LTS/20210928_143124/version-Release_Version-OpenHarmony_3.0_LTS-20210928_143124-ohos-sdk-LTS.tar.gz |
+ | hi3516dv300-L2版本 SDK mac：<br>https://hm-verify.obs.cn-north-4.myhuaweicloud.com/version/Release_Version/OpenHarmony_3.0_LTS/20210928_150541/L2-SDK-MAC.tar.gz |
+
+L2需求列表:
+| no   | issue                                                        | feture description                                | status     | sig            | owner                                 |
+| :--- | ------------------------------------------------------------ | :------------------------------------------------ | :--------- | :------------- | :------------------------------------ |
+|1|[I4BXPQ](https://gitee.com/open_harmony/dashboard?issue_id=I4BXPQ)|【DFX】libhicollie支持OpenHarmony standard|Testing|SIG_BasicSoftwareService|[@stesen](https://gitee.com/stesen)|
+|2|[I4BXMM](https://gitee.com/open_harmony/dashboard?issue_id=I4BXMM)|【DFX】libhitrace支持OpenHarmony standard|Testing|SIG_BasicSoftwareService|[@stesen](https://gitee.com/stesen)|
+|3|[I4BY0R](https://gitee.com/open_harmony/dashboard?issue_id=I4BY0R)|【DFX】鸿蒙应用事件打点接口与鸿蒙应用事件管理（JS）|Testing|SIG_BasicSoftwareService|[@lyj_love_code](https://gitee.com/lyj_love_code)|
+
+L0L1 issue列表：
+| ISSUE                                                        | 问题描述                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[I45AVP](https://gitee.com/open_harmony/dashboard?issue_id=I45AVP)|执行hilog落盘之后hilog命令执行失败|
+|[I47EPA](https://gitee.com/open_harmony/dashboard?issue_id=I47EPA)|【OpenHarmony 3.0 Beta1】入参为空或无效时，GetBundleSize返回错误|
+|[I434AD](https://gitee.com/open_harmony/dashboard?issue_id=I434AD)|HI3516DV300 L1常驻内存超基线|
+|[I434P1](https://gitee.com/open_harmony/dashboard?issue_id=I434P1)|HI3518EV300常驻内存超基线|
+|[I46I6K](https://gitee.com/open_harmony/dashboard?issue_id=I46I6K)|BUG-[轻鸿蒙多媒体子系统][相机] [音频][视频]代码安全编码规范|
+|[I46E6S](https://gitee.com/open_harmony/dashboard?issue_id=I46E6S)|L0 内核模块编译添加-Werror编译选项|
+|[I42LCU](https://gitee.com/open_harmony/dashboard?issue_id=I42LCU)|【openHarmony】【轻内核子系统】集成测试开发板移植指导中需增加线程不足的确认方法和配置线程个数的方法|
+|[I3M12H](https://gitee.com/open_harmony/dashboard?issue_id=I3M12H)|【OpenHarmony】【20210419】【轻内核子系统】集成测试发送两个不同的信号，sigwait第二次等到的仍是第一个信号|
+|[I48A2I](https://gitee.com/open_harmony/dashboard?issue_id=I48A2I)|【OpenHarmony 3.0.0.6】【驱动子系统】L1 3516DV300单板liteos版本调用AllocMem接口测试，单板挂死|
+|[I47X2Z](https://gitee.com/open_harmony/dashboard?issue_id=I47X2Z)|【openHarmony】【3.0 Beta1】【轻内核子系统】集成测试 在执行ActsIpcShmTest.bin脚本，出现大量未释放的共享内存。|
+|[I3IPD7](https://gitee.com/open_harmony/dashboard?issue_id=I3IPD7)|【OpenHarmony】【20210414】【轻内核子系统】集成测试不支持功能需要在.h中说明|
+|[I47ETO](https://gitee.com/open_harmony/dashboard?issue_id=I47ETO)|【OpenHarmony 3.0 Beta1】权限校验没有生效，使用测试 bin 直接调用无权限 hap，期望查询失败返回 0，结果查询成功|
+|[I4BL3S](https://gitee.com/open_harmony/dashboard?issue_id=I4BL3S)|【OpenHarmony】【3.0.0.8】【轻内核子系统】集成测试fs_posix模块nfs用例跑多次会出现不停打印申请内存失败问题|
+|[I490KZ](https://gitee.com/open_harmony/dashboard?issue_id=I490KZ)|【OpenHarmony】【3.0.0.6】【轻内核子系统】FutexTest.testPthreadTimdOutRWlockWR用例执行失败|
+|[I47X2Z](https://gitee.com/open_harmony/dashboard?issue_id=I47X2Z)|【openHarmony】【3.0 Beta1】【轻内核子系统】集成测试 在执行ActsIpcShmTest.bin脚本，出现大量未释放的共享内存。|
+|[I44SFO](https://gitee.com/open_harmony/dashboard?issue_id=I44SFO)|【OpenHarmony】【1.1.577】【轻内核子系统】集成测试在某个目录下mv一个文件后，再在此目录下创建同名文件并二次mv该文件失败，提示此文件不存在|
+
+L2 issue列表：
+| ISSUE                                                        | 问题描述                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[I4C1B7](https://gitee.com/open_harmony/dashboard?issue_id=I4C1B7)|【OpenHarmony】【3.0.0.9】【用户程序框架子系统】serviceability 同进程的connect\disconnect\sendrequest不支持|
+|[I4C18L](https://gitee.com/open_harmony/dashboard?issue_id=I4C18L)|【OpenHarmony】【3.0.0.9】【用户程序框架子系统】迁出场景无法验收，拉起失败|
+|[I4C192](https://gitee.com/open_harmony/dashboard?issue_id=I4C192)|【OpenHarmony】【3.0.0.9】【用户程序框架子系统】ACE2.0 新增ets，需要在config.json中支持失败ets格式，当前LTS无法失败|
+|[I4C1A4](https://gitee.com/open_harmony/dashboard?issue_id=I4C1A4)|【OpenHarmony】【3.0.0.9】【用户程序框架子系统】迁移数据传输KV长度JS与native规格不一致|
+|[I4BIY8](https://gitee.com/openharmony/ace_ace_engine/issues/I4BYI8?from=project-issue)|【OpenHarmony】【版本号：3.0.0.9】【ACE子系统】调用connectAbility启动service失败|

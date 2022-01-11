@@ -97,3 +97,43 @@ L2 issue列表：
 |[I4C192](https://gitee.com/open_harmony/dashboard?issue_id=I4C192)|【OpenHarmony】【3.0.0.9】【用户程序框架子系统】ACE2.0 新增ets，需要在config.json中支持失败ets格式，当前LTS无法失败|
 |[I4C1A4](https://gitee.com/open_harmony/dashboard?issue_id=I4C1A4)|【OpenHarmony】【3.0.0.9】【用户程序框架子系统】迁移数据传输KV长度JS与native规格不一致|
 |[I4BIY8](https://gitee.com/openharmony/ace_ace_engine/issues/I4BYI8?from=project-issue)|【OpenHarmony】【版本号：3.0.0.9】【ACE子系统】调用connectAbility启动service失败|
+
+## OpenHarmony 3.1 Beta版本转测试信息：
+
+| ***\*****转测试版本号：    OpenHarmony 3.1 Beta *****     |
+| ------------------------------------------------------------ |
+| **版本用途：**OpenHarmony码云master迭代三第4轮测试，验收:    |
+| L0L1: 不涉及                                       |
+| L2: IT1~TI3全量需求验证                                     |
+| **API****变更：**：本次转测特性不涉及API变更                 |
+| **L0L1****转测试时间：2021-12-30**                           |
+| **L0L1****转测试版本获取路径：**                             |
+| hispark_pegasus版本:    http://download.ci.openharmony.cn/version/Master_Version/OpenHarmony_3.1.2.5/20211230_193318/version-Master_Version-OpenHarmony_3.1.2.5-20211230_193318-hispark_pegasus_OpenHarmony-3.1-Beta.tar.gz |
+| hispark_taurus版本:  http://download.ci.openharmony.cn/version/Master_Version/OpenHarmony_3.1.2.5/20211230_193358/version-Master_Version-OpenHarmony_3.1.2.5-20211230_193358-hispark_taurus_LiteOS_OpenHarmony-3.1-Beta.tar.gz |
+| hispark_taurus_linux版本:  http://download.ci.openharmony.cn/version/Master_Version/OpenHarmony_3.1.2.5/20211230_193339/version-Master_Version-OpenHarmony_3.1.2.5-20211230_193339-hispark_taurus_Linux_OpenHarmony-3.1-Beta.tar.gz |
+| **L2****转测试时间：2021-12-30**                             |
+| **L2****转测试版本获取路径：**                               |
+| hi3516dv300-L2版本 SDK linux/windows： http://download.ci.openharmony.cn/version/Master_Version/OpenHarmony_3.1_Beta/20220106_185129/version-Master_Version-OpenHarmony_3.1_Beta-20220106_185129-ohos-sdk_OpenHarmony-3.1-Beta.tar.gz |
+| hi3516dv300-L2版本 SDK mac： https://hm-verify.obs.cn-north-4.myhuaweicloud.com/version/Master_Version/OpenHarmony_3.1_Beta/20220106_224324/L2-SDK-MAC.tar.gz    |
+| hi3516dv300-L2版本：  http://download.ci.openharmony.cn/version/Master_Version/OpenHarmony_3.1.2.5/20211231_191018/version-Master_Version-OpenHarmony_3.1.2.5-20211231_191018-hispark_taurus_L2_OpenHarmony-3.1-Beta.tar.gz |
+| RK3568版本:http://download.ci.openharmony.cn/version/Master_Version/OpenHarmony_3.1.2.5/20211231_191442/version-Master_Version-OpenHarmony_3.1.2.5-20211231_191442-dayu200_OpenHarmony-3.1-Beta.tar.gz |
+
+**2021/12/29已解决的ISSUE单列表：**
+|serialNo| ISSUE                                                        | 问题描述                                                     |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|1||IDE配套问题，修改js版本号，否则IDE工具无法下载到SDK包，需要修改为1.0.6版本| 
+|2||二级界面无法跳转，点击时间设置、亮度调节、音量调节等不生效问题| 
+|3||状态栏依旧有Home/Back/功能键显示，但这些键点击无效| 
+|4|I4O67X|标准系统_3516执行xts测试套ActsAnsDoNotDisturbTest报ace异常调用栈问题，影响社区流水线稳定性测试| 
+|5|I4OBCG|libnotification.z.so文件NO Rpath/RunPath选项有问题| 
+|6|I4ND5U|【openharmony】kr3568单板manager用例7失败| 
+
+**2021/12/28已解决的ISSUE单列表：**
+|serialNo| ISSUE                                                        | 问题描述                                                     |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|1|I4NEUX|执行xts测试套ActsBmsGetInfosTest报ace异常调用栈问题，影响社区流水线测试|
+|2|I4O311|/system/bin/display-hotplug.sh脚本编译到正式版本中，疑似后门，应删除| 
+|3||IDE配套问题，低代码工程适配失败| 
+|4||EGG   心跳次数是三位数时，会文字显示不完整| 
+|5||计算器 带小数乘除计算会有误差1.1*6=6.6000000000000006| 
+|6||3516的性能不行导致绑定超时失败，client失败| 

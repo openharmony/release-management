@@ -946,7 +946,7 @@
 | [I4RCRK](https://gitee.com/openharmony/ace_ace_engine/issues/I4RCRK)|【DFX】ACE框架超时检测机制|标准系统|SIG_ArkUI|[@qieqiewl](https://gitee.com/qieqiewl)|
 | [I4RCRI](https://gitee.com/openharmony/ace_ace_engine/issues/I4RCRI)|【新增规格】卡片支持鼠标悬停事件|标准系统|SIG_ArkUI|[@qieqiewl](https://gitee.com/qieqiewl)|
 | [I4RCRH](https://gitee.com/openharmony/ace_ace_engine/issues/I4RCRH)|【新增特性】自定义builder|标准系统|SIG_ArkUI|[@qieqiewl](https://gitee.com/qieqiewl)|
-| [I4RCRG](https://gitee.com/openharmony/ace_ace_engine/issues/I4RCRG)|【新增特性】$$双向绑定编译转换支持|SIG_ArkUI|[@qieqiewl](https://gitee.com/qieqiewl)||
+| [I4RCRG](https://gitee.com/openharmony/ace_ace_engine/issues/I4RCRG)|【新增特性】$$双向绑定编译转换支持|标准系统|SIG_ArkUI|[@qieqiewl](https://gitee.com/qieqiewl)||
 | [I4RCRF](https://gitee.com/openharmony/ace_ace_engine/issues/I4RCRF)|【新增特性】新增自定义组件支持访问子组件数据|标准系统|SIG_ArkUI|[@qieqiewl](https://gitee.com/qieqiewl)|
 | [I4RCRE](https://gitee.com/openharmony/ace_ace_engine/issues/I4RCRE)|【新增特性】新增NAPI继承机制|标准系统|SIG_ArkUI|[@qieqiewl](https://gitee.com/qieqiewl)|
 | [I4RCRD](https://gitee.com/openharmony/ace_ace_engine/issues/I4RCRD)|【新增规格】新增OffscreenCanvas支持抗锯齿特性|标准系统|SIG_ArkUI|[@qieqiewl](https://gitee.com/qieqiewl)|
@@ -1088,8 +1088,8 @@
 | [I4R2X9](https://gitee.com/openharmony/global_resmgr_standard/issues/I4R2X9) | 【部件化专项】全球化子系统部件标准化                                     | 标准系统 | SIG_ApplicationFramework          | [@jameshw](https://gitee.com/jameshw)         |
 | [I4R3CG](https://gitee.com/openharmony/global_resmgr_standard/issues/I4R3CG) | 【新增特性】资源预览优化                                     | 标准系统 | SIG_ApplicationFramework          | [@jameshw](https://gitee.com/jameshw)         |
 | [I4OH95](https://gitee.com/openharmony/distributedschedule_samgr/issues/I4OH95?from=project-issue) | 【部件化专项】系统服务管理子系统部件标准化                   | 标准系统       | SIG_BasicSoftwareService | [@cangegegege](https://gitee.com/cangegegege)         |
-| [I4RD2M](https://gitee.com/openharmony/kernel_liteos_m/issues/I4RD2M?from=project-issue) | 【部件化专项】LiteOS-M内核部件标准化                  | 轻内核子系统       | SIG_Kernel | [@leonchan5](https://gitee.com/leonchan5)
-| [I4RD2U](https://gitee.com/openharmony/kernel_liteos_a/issues/I4RD2U?from=project-issue) | 【部件化专项】LiteOS-A内核部件标准化                  | 轻内核子系统       | SIG_Kernel | [@leonchan5](https://gitee.com/leonchan5)
+| [I4RD2M](https://gitee.com/openharmony/kernel_liteos_m/issues/I4RD2M?from=project-issue) | 【部件化专项】LiteOS-M内核部件标准化                  | 轻量系统       | SIG_Kernel | [@leonchan5](https://gitee.com/leonchan5)
+| [I4RD2U](https://gitee.com/openharmony/kernel_liteos_a/issues/I4RD2U?from=project-issue) | 【部件化专项】LiteOS-A内核部件标准化                  | 轻量系统       | SIG_Kernel | [@leonchan5](https://gitee.com/leonchan5)
 | [I4R6SK](https://gitee.com/openharmony/distributeddatamgr_datamgr/issues/I4R6SK)|【部件化专项】【key_value_store部件】key_value_store部件标准化|标准系统|SIG_DataManagement|[@widecode](https://gitee.com/widecode)|
 | [I4QEKQ](https://gitee.com/openharmony/drivers_peripheral/issues/I4QEKQ) | 【新增特性】Display的Gralllo、Gfx和Device的HDI接口实现服务                          | 标准系统 | SIG_Driver         | [@xie0812](https://gitee.com/xie0812)           |
 | [I4QEKS](https://gitee.com/openharmony/drivers_framework/issues/I4QEKS) | 【新增特性】platform_driver部件标准化                          | 标准系统 | SIG_Driver         | [@xie0812](https://gitee.com/xie0812)           |
@@ -1112,7 +1112,7 @@
 | [I4RU58](https://gitee.com/openharmony/security_dataclassification/issues/I4RU58)   | 【部件化专项】【data_transit_mgr_lib部件】data_transit_mgr_lib部件标准化  | 标准系统   | SIG_Security  | [@wangyongzhong2](https://gitee.com/wangyongzhong2)  |
 | [I4SEZD](https://gitee.com/openharmony/security_access_token/issues/I4SEZD)  | 【新增规格】动态权限弹窗界面实现    | 标准系统 | SIG_Security | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
 | [I4SEZ7](https://gitee.com/openharmony/security_access_token/issues/I4SEZ7)  | 【动态权限设置】实现动态权限授权机制    | 标准系统 | SIG_Security | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
-| [I4ITYY](https://gitee.com/openharmony/account_os_account/issues/I4ITYY)  | [帐号子系统]支持应用账号基础鉴权功能    | 账号子系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
+| [I4ITYY](https://gitee.com/openharmony/account_os_account/issues/I4ITYY)  | [帐号子系统]支持应用账号基础鉴权功能    | 标准系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
 | [I4SHYL](https://gitee.com/openharmony/account_os_account/issues/I4SHYL)  | 【资料】app_account_standard部件应用账号管理需求    | 标准系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
 | [I4QT4W](https://gitee.com/openharmony/account_os_account/issues/I4QT4W)  | [账号子系统]【部件化专项】【os_account部件】部件标准化    | 标准系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
 |[I4WV31](https://gitee.com/openharmony/startup_init_lite/issues/I4WV31) | 【部件化专项】启动子系统部件标准化       | 标准系统 | SIG_BscSoftSrv       | [@xionglei6](https://gitee.com/xionglei6)     |
@@ -1186,7 +1186,7 @@
 | [I4PKYT](https://gitee.com/openharmony/appexecfwk_standard/issues/I4PKYT) | 【新增特性】支持现有js安装接口的权限管控 | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao) |
 | [I4QA3D](https://gitee.com/openharmony/appexecfwk_standard/issues/I4QA3D?from=project-issue) | 【增强特性】新增zlib解压、压缩数据native接口 | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao) |
 | [I4SY5T](https://gitee.com/openharmony/appexecfwk_standard/issues/I4SY5T?from=project-issue) | 【SysCap】标准系统支持SysCap机制 | 标准系统   | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)               |
-| [I4Q9S6](https://gitee.com/openharmony/kernel_liteos_m/issues/I4Q9S6)  | [内核子系统]【增强特性】支持内核接口融合    | 内核子系统 | SIG_Kernel | [@leonchan5](https://gitee.com/leonchan5)       |
+| [I4Q9S6](https://gitee.com/openharmony/kernel_liteos_m/issues/I4Q9S6)  | [内核子系统]【增强特性】支持内核接口融合    | 轻量系统 | SIG_Kernel | [@leonchan5](https://gitee.com/leonchan5)       |
 | [I4QESV](https://gitee.com/openharmony/device_manager/issues/I4QESV)  | 【新增特性】设备可用状态上报性能跟踪   | 标准系统 | SIG_DistributedHardwareManagement | [@renguang1116](https://gitee.com/renguang1116)           |
 | [I4QEKZ](https://gitee.com/openharmony/drivers_framework/issues/I4QEKZ) | 【新增特性】支持用户态平台驱动接口                          | 标准系统 | SIG_Driver         | [@xie0812](https://gitee.com/xie0812)           |
 | [I4QEL1](https://gitee.com/openharmony/drivers_peripheral/issues/I4QEL1) | 【新增特性】【新增特性】支持基于FB显示架构的基础功能                          | 标准系统 | SIG_Driver         | [@xie0812](https://gitee.com/xie0812)           |
@@ -1209,7 +1209,7 @@
 | [I4R2MP](https://gitee.com/openharmony/global_i18n_standard/issues/I4R2MP) | 【新增特性】时区数据编译                         | 标准系统 | SIG_ApplicationFramework          | [@mengjingzhimo](https://gitee.com/mengjingzhimo) |
 | [I4R2LF](https://gitee.com/openharmony/global_i18n_standard/issues/I4R2LF) | 【新增特性】时区数据解析                         | 标准系统 | SIG_ApplicationFramework          | [@mengjingzhimo](https://gitee.com/mengjingzhimo) |
 | [I4R3FR](https://gitee.com/openharmony/global_i18n_standard/issues/I4R3FR) | 【资料】全球化新增API资料更新                       | 标准系统 | SIG_ApplicationFramework          | [@mengjingzhimo](https://gitee.com/mengjingzhimo) |
-| [I4RD3H](https://gitee.com/openharmony/kernel_liteos_m/issues/I4RD3H?from=project-issue) | 【liteos_m部件】增加支持POSIX接口                  | 轻内核子系统       | SIG_Kernel | [@leonchan5](https://gitee.com/leonchan5) |
+| [I4RD3H](https://gitee.com/openharmony/kernel_liteos_m/issues/I4RD3H?from=project-issue) | 【liteos_m部件】增加支持POSIX接口                  | 轻量系统       | SIG_Kernel | [@leonchan5](https://gitee.com/leonchan5) |
 | [I4QEKY](https://gitee.com/openharmony/drivers_peripheral/issues/I4QEKY) | 【新增特性】Audio支持模拟耳机设备                          | 标准系统 | SIG_Driver         | [@xie0812](https://gitee.com/xie0812)           |
 | [I4RTYX](https://gitee.com/openharmony/security_device_security_level/issues/I4RTYX?from=project-issue) | 【新增特性】【接口】提供查询本机或者组网内其它设备的设备安全等级信息的接口 | 标准系统 | SIG_Security | [@zhirenx](https://gitee.com/zhirenx) |
 | [I4RTYW](https://gitee.com/openharmony/security_device_security_level/issues/I4RTYW?from=project-issue) | 【新增特性】【服务】支持获取自己或者组网内其它设备的设备安全等级信息 | 标准系统 | SIG_Security | [@zhirenx](https://gitee.com/zhirenx) |
@@ -1313,10 +1313,10 @@
 | [I4TYDO](https://gitee.com/openharmony/security_access_token/issues/I4TYDO)  | 【新增规格】设备下线时的token信息删除    | 标准系统 | SIG_Security | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
 | [I4TYCK](https://gitee.com/openharmony/security_access_token/issues/I4TYCK)  | 【新增规格】分布式权限校验接口和机制    | 标准系统 | SIG_Security | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
 | [I4TYE7](https://gitee.com/openharmony/security_access_token/issues/I4TYE7)  | 【SysCap】标准系统支持SysCap机制    | 标准系统 | SIG_Security | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
-| [I4IU5G](https://gitee.com/openharmony/account_os_account/issues/I4IU5G)  | [帐号子系统]支持本地多用户辅助管理工具    | 账号子系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
-| [I4IU51](https://gitee.com/openharmony/account_os_account/issues/I4IU51)  | [帐号子系统]本地多用户基础信息约束    | 账号子系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
-| [I4IU4D](https://gitee.com/openharmony/account_os_account/issues/I4IU4D)  | [帐号子系统]支持本地多用户接口权限检查及服务访问约束    | 账号子系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
-| [I4TXW3](https://gitee.com/openharmony/account_os_account/issues/I4TXW3)  | 【SysCap】账号子系统支持SysCap机制    | 账号子系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
+| [I4IU5G](https://gitee.com/openharmony/account_os_account/issues/I4IU5G)  | [帐号子系统]支持本地多用户辅助管理工具    | 标准系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
+| [I4IU51](https://gitee.com/openharmony/account_os_account/issues/I4IU51)  | [帐号子系统]本地多用户基础信息约束    | 标准系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
+| [I4IU4D](https://gitee.com/openharmony/account_os_account/issues/I4IU4D)  | [帐号子系统]支持本地多用户接口权限检查及服务访问约束    | 标准系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
+| [I4TXW3](https://gitee.com/openharmony/account_os_account/issues/I4TXW3)  | 【SysCap】账号子系统支持SysCap机制    | 标准系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
 | [I4TYET](https://gitee.com/openharmony/security_selinux/issues/I4TYET)  | 【新增规格】提供parameter的selinux标签设置接口库    | 标准系统 | SIG_Security | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
 | [I4TIWQ](https://gitee.com/openharmony/usb_manager/issues/I4TIWQ)  | 【SysCap】USB服务子系统支持SysCap机制    | 标准系统 | SIG_Driver         | [@xie0812](https://gitee.com/xie0812)           |
 | [I4TJG3](https://gitee.com/openharmony/security_deviceauth/issues/I4TJG3) | 【增强特性】DeviceAuth部件支持帐号无关点对点信任关系建立、解除的多用户数据隔离                  | 标准系统   | SIG_Security | [@lvyuanmin](https://gitee.com/lvyuanmin)         |
@@ -1412,8 +1412,8 @@
 | [I4TYDA](https://gitee.com/openharmony/security_access_token/issues/I4TYDA)  | 【新增规格】token信息跨设备同步    | 标准系统 | SIG_Security | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
 | [I4TYCV](https://gitee.com/openharmony/security_access_token/issues/I4TYCV)  | 【新增规格】设备上线时的native进程的token信息同步    | 标准系统 | SIG_Security | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
 | [I4V03D](https://gitee.com/openharmony/security_selinux/issues/I4V03D)  | 【新增特性】支持SELinux开关的dump机制    | 标准系统 | SIG_Security | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
-| [I4JBF2](https://gitee.com/openharmony/account_os_account/issues/I4JBF2)  | [账号子系统]os_account_standard部件分布式组网账号管理需求    | 账号子系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
-| [I4IU5W](https://gitee.com/openharmony/account_os_account/issues/I4IU5W)  | [帐号子系统]os_account_standard部件本地多用户生命周期管理需求    | 账号子系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
+| [I4JBF2](https://gitee.com/openharmony/account_os_account/issues/I4JBF2)  | [账号子系统]os_account_standard部件分布式组网账号管理需求    | 标准系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
+| [I4IU5W](https://gitee.com/openharmony/account_os_account/issues/I4IU5W)  | [帐号子系统]os_account_standard部件本地多用户生命周期管理需求    | 标准系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
 | [I4V74F](https://gitee.com/openharmony/communication_dsoftbus/issues/I4V74F)  | 【新增特性】【组网】拓扑管理    | 标准系统 | SIG_SoftBus | [@fanxiaoyu321](https://gitee.com/fanxiaoyu321)       |
 | [I4Q6B5](https://gitee.com/openharmony/hiviewdfx_hitrace/issues/I4Q6B5)|【SR000GIILK:【资料】hitrace部件的js api需求|标准系统|SIG_BasicSoftwareService|[@guochuanqi](https://gitee.com/guochuanqi)|
 | [I4PJE4](https://gitee.com/openharmony/hiviewdfx_hiview/issues/I4PJE4)|【SR000GI6P9:【资料】hiprofiler部件资料需求|标准系统|SIG_BasicSoftwareService|[@guochuanqi](https://gitee.com/guochuanqi)|

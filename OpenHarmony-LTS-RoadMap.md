@@ -17,7 +17,7 @@ SIG Release会对LTS分支进行长期的支持和维护，维护内容主要为
 | Openharmony-v1.1.2-LTS     | Openharmony 1.1.2 LTS | 2021/7/15    | 2021/7/15  | 2021/7/31    |
 | Openharmony-v1.1.3-LTS     | Openharmony 1.1.3 LTS | 2021/9/15    | 2021/9/15  | 2021/9/30    |
 | Openharmony-v1.1.4-LTS     | Openharmony 1.1.4 LTS | 2022/1/24    | 2022/1/24  | 2022/2/10    |
-| Openharmony-v1.1.5-LTS     | Openharmony 1.1.5 LTS | 2022/6/15    | 2022/6/15  | 2022/6/30    |
+| Openharmony-v1.1.5-LTS     | Openharmony 1.1.5 LTS | 2022/7/01    | 2022/7/01  | 2022/7/15    |
 
 
 
@@ -29,9 +29,9 @@ SIG Release会对LTS分支进行长期的支持和维护，维护内容主要为
 | Openharmony-v3.0.1-LTS | Openharmony 3.0.1 LTS | 2021/12/29   | 2021/12/29 | 2022/1/10    |
 | Openharmony-v3.0.2-LTS | Openharmony 3.0.2 LTS | 2022/2/28    | 2022/2/28  | 2022/3/15    |
 | Openharmony-v3.0.3-LTS | Openharmony 3.0.3 LTS | 2022/3/25    | 2022/3/25  | 2022/4/5     |
-| Openharmony-v3.0.4-LTS | Openharmony 3.0.4 LTS | 2022/6/8     | 2022/6/8   | 2022/6/15    |
-| Openharmony-v3.0.5-LTS | Openharmony 3.0.5 LTS | 2022/8/15    | 2022/8/15  | 2022/8/30    |
-| Openharmony-v3.0.6-LTS | Openharmony 3.0.6 LTS | 2022/10/15   | 2022/10/15 | 2022/10/30   |
+| Openharmony-v3.0.5-LTS | Openharmony 3.0.5 LTS | 2022/6/17    | 2022/6/17  | 2022/6/30    |
+| Openharmony-v3.0.6-LTS | Openharmony 3.0.6 LTS | 2022/8/15    | 2022/8/15  | 2022/8/30    |
+| Openharmony-v3.0.7-LTS | Openharmony 3.0.7 LTS | 2022/10/15   | 2022/10/15 | 2022/10/30   |
 
 3.Openharmony 3.1 Release分支版本计划
 
@@ -39,7 +39,7 @@ SIG Release会对LTS分支进行长期的支持和维护，维护内容主要为
 | -------------------------- | ------------------------- | ------------ | ---------- | ------------ |
 | Openharmony-v3.1-Release   | Openharmony 3.1 Release   | 2022/3/15    | 2022/3/15  | 2022/3/30    |
 | Openharmony-v3.1.1-Release | Openharmony 3.1.1 Release | 2022/5/18    | 2022/5/18  | 2022/5/30    |
-| Openharmony-v3.1.2-Release | Openharmony 3.1.2 Release | 2022/7/4     | 2022/7/4   | 2022/7/15    |
+| Openharmony-v3.1.2-Release | Openharmony 3.1.2 Release | 2022/7/10    | 2022/7/10  | 2022/7/30    |
 | Openharmony-v3.1.3-Release | Openharmony 3.1.3 Release | 2022/8/15    | 2022/8/15  | 2022/8/30    |
 | Openharmony-v3.1.4-Release | Openharmony 3.1.4 Release | 2022/9/12    | 2022/9/12  | 2022/9/23    |
 | Openharmony-v3.1.5-Release | Openharmony 3.1.5 Release | 2022/11/15   | 2022/11/15 | 2022/11/30   |

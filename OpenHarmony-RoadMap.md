@@ -2036,9 +2036,9 @@
 [I56WEK](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56WEK) | 【新增特性】支持按文件类型设置默认应用               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
 [I56WDY](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56WDY) | 【新增特性】支持三方应用把自己设置为默认应用               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
 [I5ERJT](https://gitee.com/openharmony/useriam_user_auth_framework/issues/I5ERJT) | 【新增规格】用户IAM子系统SELinux策略配置 | 标准系统 | SIG_ApplicationFramework | [@wangxu43](https://gitee.com/wangxu43) |
-[I5EPCD](https://gitee.com/openharmony/useriam_user_auth_framework/issues/I5EPCD?from=project-issue) | 支持完成指定用户的指纹录入【框架】 | 用户IAM子系统 | SIG_Security |  [@wangxu](https://gitee.com/wangxu43) |
-[I5EPCM](https://gitee.com/openharmony/useriam_user_auth_framework/issues/I5EPCM?from=project-issue) | 支持完成指定用户的指纹认证和指纹识别【框架】| 用户IAM子系统 | SIG_Security |  [@wangxu](https://gitee.com/wangxu43)  |
-[I5EPCU](https://gitee.com/openharmony/useriam_user_auth_framework/issues/I5EPCU?from=project-issue) | 支持完成指定用户的指纹认证删除【框架】| 用户IAM子系统 | SIG_Security |  [@wangxu](https://gitee.com/wangxu43)  |
+[I5EPCD](https://gitee.com/openharmony/useriam_user_auth_framework/issues/I5EPCD?from=project-issue) | 支持完成指定用户的指纹录入【框架】 | 标准系统 | SIG_Security |  [@wangxu](https://gitee.com/wangxu43) |
+[I5EPCM](https://gitee.com/openharmony/useriam_user_auth_framework/issues/I5EPCM?from=project-issue) | 支持完成指定用户的指纹认证和指纹识别【框架】| 标准系统 | SIG_Security |  [@wangxu](https://gitee.com/wangxu43)  |
+[I5EPCU](https://gitee.com/openharmony/useriam_user_auth_framework/issues/I5EPCU?from=project-issue) | 支持完成指定用户的指纹认证删除【框架】| 标准系统 | SIG_Security |  [@wangxu](https://gitee.com/wangxu43)  |
 [I5D6CQ](https://gitee.com/openharmony/security_selinux/issues/I5D6CQ) | 【新增规格】【驱动子系统】驱动子系统SELinux策略配置            | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
 [I5DVBW](https://e.gitee.com/open_harmony/dashboard?issue=I5DVBW) | 【新增特性】新增音频音效控制           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
 [I5CXAB](https://gitee.com/openharmony/drivers_hdf_core/issues/I5CXAB) | 【增强特性】支持红外设备输入           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |

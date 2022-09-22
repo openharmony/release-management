@@ -9,7 +9,9 @@
 | IT4          | OpenHarmony 3.1 Release | 8         | 2022/3/9    | 2022/3/9      | **2022/3/30**    |
 | IT5          | OpenHarmony 3.2 Beta1 | 9         | 2022/5/25    | 2022/5/26      | **2022/5/30**    |
 | IT6          | OpenHarmony 3.2 Beta2 | 9         | 2022/7/20    | 2022/7/21      | **2022/7/30**    |
-| IT7          | OpenHarmony 3.2 LTS | 9         | 2022/9/21    | 2022/9/22      | **2022/9/30**    |
+| IT7          | OpenHarmony 3.2 Beta3 | 9         | 2022/9/21    | 2022/9/22      | **2022/9/30**    |
+| IT8          | OpenHarmony 3.2 Beta4 | 9         | 2022/11/21    | 2022/11/22      | **2022/11/30**    |
+| IT9          | OpenHarmony 3.2 RC | 9         | 2023/1/23    | 2023/1/24      | **2023/1/30**    |
 
 ## OpenHarmony 3.1 Release Roadmap Overview:
 

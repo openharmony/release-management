@@ -1917,6 +1917,201 @@
 | [I58ZUW](https://e.gitee.com/open_harmony/search?issue=I58ZUW) | 【增强特性】wukong稳定性工具支持控件注入 | 标准系统 | SIG_Test | [@inter515](https://gitee.com/inter515) |
 | [I58ZUV](https://e.gitee.com/open_harmony/search?issue=I58ZUV) | 【增强特性】wukong支持稳定性报告解析、生成与展示 | 标准系统 | SIG_Test | [@inter515](https://gitee.com/inter515) |
 
+## OpenHarmony 3.2(Beta2)版本特性清单：
+状态说明：discussion(方案讨论，需求未接受)，Reject(未纳入版本)，developing(开发中)，Testing(测试中)，Accepted(已验收)
+| issue                                                        | feture description                                           | platform     | sig                  | owner                                             |
+| ------------------------------------------------------------ | :----------------------------------------------------------- | :--------- | :------------------- | :------------------------------------------------ |
+[I57ZSO](https://gitee.com/openharmony/aafwk_standard/issues/I57ZSO) | 【增强特性】AMS 关键trace补齐                                | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I57ZQ2](https://gitee.com/openharmony/aafwk_standard/issues/I57ZQ2?from=project-issue) | 【新增特性】支持动态卡片的信息持久化                         | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I57ZPF](https://gitee.com/openharmony/aafwk_standard/issues/I57ZPF) | 支持提供方添加动态卡片                                       | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I57ZO2](https://gitee.com/openharmony/aafwk_standard/issues/I57ZO2) | 【特性增强】AMS内部锁优化                                    | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I57ZL8](https://gitee.com/openharmony/aafwk_standard/issues/I57ZL8) | 【增强特性】Want支持moduleName                               | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I57ZJC](https://gitee.com/openharmony/aafwk_standard/issues/I57ZJC) | 【增强特性】Extension进程管理机制优化                        | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I58411](https://gitee.com/openharmony/notification_ces_standard/issues/I58411) | 【eventhandler】部件名、仓名和目录整改                       | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I582OG](https://gitee.com/openharmony/notification_ans_standard/issues/I582OG) | 【distributed_notification_service部件】部件名、仓名和目录整改 | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I582OW](https://gitee.com/openharmony/notification_ces_standard/issues/I582OW) | 【common_event_service部件】部件名、仓名和目录整改           | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I5A6H6](https://gitee.com/openharmony/device_soc_rockchip/issues/I5A6H6) | 【增强特性】增强显示设备管理,支持多屏显示能力          | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I536FN](https://gitee.com/openharmony/drivers_adapter/issues/I536FN) | 【新增特性】支持HDI passthrougt模式           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I56V2N](https://e.gitee.com/open_harmony/dashboard?issue=I56V2N) | 【新增特性】HDF WLAN DAL HDI功率模式相关接口的定义与开发           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5936I](https://gitee.com/open_harmony/dashboard?issue_id=I5936I) | 【增强特性】增强Camera设备管理，补齐能力短板           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I56W5H](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W5H) | 【新增特性】拆包工具提供解析资源的接口               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56W5T](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W5T) | 【新增特性】配置依赖关系               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56WF6](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56WF6) | 【新增特性】支持查询包依赖关系               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56W26](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W26) | 【bundle_framework部件】部件名、仓名和目录整改               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56W1V](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W1V) | 【distributed_bundle_framework部件】部件名、仓名和目录整改               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56W7B](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W7B) | 【新增特性】增加基于ModuleName的查询接口               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56WAB](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56WAB) | 【新增特性】预授权机制               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56W1C](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W1C) | 【bundle_tool部件】部件名、仓名和目录整改               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56W0L](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W0L) | 【zlib部件】zlib三方开源软件独立为部件               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56WCC](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56WCC) | 【新增特性】包管理DFX               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56WJB](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56WJB) | 【DFX打点】【包管理子系统】提供系统事件、SA dump打点               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I54CZR](https://gitee.com/openharmony/distributeddatamgr_appdatamgr/issues/I54CZR) | 新框架与元能力解耦DataShare代码迁移至数据管理子系统          | 标准系统 | SIG_DataManagement | [@srr101](https://gitee.com/srr101) |
+[I54CWP](https://gitee.com/openharmony/distributeddatamgr_appdatamgr/issues/I54CWP) | 新框架与元能力解耦DataShare 独立部件交付          | 标准系统 | SIG_DataManagement | [@srr101](https://gitee.com/srr101) |
+[I54D25](https://gitee.com/openharmony/distributeddatamgr_appdatamgr/issues/I54D25) | 【新增特性】DataShare支持多种数据储存类型           | 标准系统 | SIG_DataManagement | [@srr101](https://gitee.com/srr101) |
+[I530XH](https://gitee.com/open_harmony/dashboard?issue_id=I530XN) | 【新增特性】支持系统按键通过配置文件配置按键映射规则	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530XN](https://gitee.com/open_harmony/dashboard?issue_id=I530XX) | 【新增特性】支持键盘按键自动重复	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530XX](https://gitee.com/open_harmony/dashboard?issue_id=I530Y1) | 【新增特性】支持触摸点压力属性	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530Y1](https://gitee.com/open_harmony/dashboard?issue_id=I530Y2) | 【新增特性】支持触摸点工具区域属性	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530Y2](https://gitee.com/open_harmony/dashboard?issue_id=I530XZ) | 【新增特性】支持触摸点工具类型属性	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530XZ](https://gitee.com/open_harmony/dashboard?issue_id=I530WD) | 【新增特性】支持触摸点触摸区域属性	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I57ZUI](https://gitee.com/openharmony/aafwk_standard/issues/I57ZUI) | 【新增特性】支持无UI应用开发的设备-graphics模块解耦 | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I57ZVC](https://gitee.com/openharmony/aafwk_standard/issues/I57ZVC) | 【新增特性】支持无UI应用开发的设备-power模块解耦    | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I57ZW3](https://gitee.com/openharmony/aafwk_standard/issues/I57ZW3) | 【新增特性】支持提供方添加静态卡片(配置文件配置)     | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I57ZWM](https://gitee.com/openharmony/aafwk_standard/issues/I57ZWM) | 【新增特性】支持查询动态卡片信息                     | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I57ZXK](https://gitee.com/openharmony/aafwk_standard/issues/I57ZXK) | 【新增特性】提供方查询静态卡片                       | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I57ZXS](https://gitee.com/openharmony/aafwk_standard/issues/I57ZXS) | 【新增特性】Extention接口整改                        | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I57ZYQ](https://gitee.com/openharmony/aafwk_standard/issues/I57ZYQ) | 【新增特性】组件提供销毁状态查询接口                 | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I57ZZH](https://gitee.com/openharmony/aafwk_standard/issues/I57ZZH) | 【新增特性】提供创建不同Hap包上下文能力              | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I57ZZZ](https://gitee.com/openharmony/aafwk_standard/issues/I57ZZZ) | 【新增特性】【MR】组件本地启动支持免安装             | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I5800S](https://gitee.com/openharmony/aafwk_standard/issues/I5800S) | 【增强特性】 支持ability销毁后移除任务               | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I5801E](https://gitee.com/openharmony/aafwk_standard/issues/I5801E) | 【新增特性】测试框架支持应用abilityStage层级测试     | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I5801V](https://gitee.com/openharmony/aafwk_standard/issues/I5801V) | 【新增特性】【MR】支持获取当前top FA信息             | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I58025](https://gitee.com/openharmony/aafwk_standard/issues/I58025) | 【新增特性】支持系统SA启动和访问组件                 | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I5802M](https://gitee.com/openharmony/aafwk_standard/issues/I5802M) | 【新增特性】支持系统SA查询和监听系统环境变化         | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I58034](https://gitee.com/openharmony/aafwk_standard/issues/I58034) | 【增强特性】使用libuv统一JS Looper机制               | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I5803R](https://gitee.com/openharmony/aafwk_standard/issues/I5803R) | 应用程序框架需要具备接受heapdump信号的能力           | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I58047](https://gitee.com/openharmony/aafwk_standard/issues/I58047) | 【元能力】支持单实例Ability迁移                      | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I5841H](https://gitee.com/openharmony/notification_ces_standard/issues/I5841H) | 【内存基线】事件通知内存基线                         | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I582QQ](https://gitee.com/openharmony/notification_ans_standard/issues/I582QQ) | 【新增规格】通知发送支持设置未读角标                 | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I56W39](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W39) | 【新增特性】支持原子化服务老化卸载               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I524R7](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I524R7) | 【新增特性】支持原子化服务免安装基本能力               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56W50](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W50) | 【新增特性】打包同一应用的app包检查其中的hap包的moduleName要唯一               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56W6P](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W6P) | 【新增特性】增加启动页的配置字段               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I5AWKX](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I5AWKX) | 【新增特性】包管理支持获取包的指纹信息               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56OQI](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56OQI) | 【新增特性】包管理支持存取hap包的sha256哈希值               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I5AWNC](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I5AWNC) | 【新增特性】打包工具支持多工程打包               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I53JX4](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I53JX4) | 【新增特性】跨设备查询指定语言的Label               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I5B0AB](https://gitee.com/openharmony/powermgr_power_manager/issues/I5B0AB) | 【新增规格】【电源管理服务子系统】电源管理子系统的SELinux策略配置 | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I5B084](https://gitee.com/openharmony/powermgr_power_manager/issues/I5B084) | 【增强特性】Power HDI 接口补齐 | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I5B09M](https://gitee.com/openharmony/powermgr_battery_manager/issues/I5B09M) | 【增强特性】充放电和电池HDI接口补齐 | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I5B9DJ](https://gitee.com/openharmony/powermgr_thermal_manager/issues/I5B9DJ) | 【DFX打点】【电源服务子系统】提供系统事件、SA dump、trace打点 | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I5AOM8](https://gitee.com/openharmony/powermgr_thermal_manager/issues/I5AOM8) | 【新增特性】增加Action Hub功能 | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I5AJW1](https://gitee.com/openharmony/drivers_peripheral/issues/I5AJW1) | 【新增特性】支持Linux libALSA音频接口兼容           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I41H53](https://e.gitee.com/open_harmony/dashboard?issue=I41H53) | 【新增特性】基于HDF框架及平台驱模型实现CANBUS总线框架           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5A2BJ](https://e.gitee.com/open_harmony/dashboard?issue=I5A2BJ) | 【新增特性】用户态中断支持           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5B0C5](https://gitee.com/openharmony/drivers_peripheral/issues/I5B0C5) | 【新增特性】camera支持实现Mate类型的流           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5B0BR](https://gitee.com/openharmony/drivers_peripheral/issues/I5B0BR) | 【新增特性】录像模式自拍镜像功能           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I59MYK](https://gitee.com/openharmony/usb_manager/issues/I59MYK) | 【新增特性】USB服务广播消息           | 标准系统 | SIG_UsbManager | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5AR8N](https://gitee.com/openharmony/usb_manager/issues/I5AR8N) | 【新增规格】【USB服务子系统】USB服务子系统的SELinux策略配置           | 标准系统 | SIG_UsbManager | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I530WD](https://gitee.com/open_harmony/dashboard?issue_id=I530W0) | 【新增特性】支持通过JS API查看触摸屏输入设备扩展信息	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530W0](https://gitee.com/open_harmony/dashboard?issue_id=I530XT) | 【新增特性】支持通过JS API 查看鼠标输入设备扩展信息	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530XT](https://gitee.com/open_harmony/dashboard?issue_id=I530XM) | 【新增特性】支持通过C++ API按照相对坐标调整鼠标位置	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530XM](https://gitee.com/open_harmony/dashboard?issue_id=I530XK) | 【新增特性】支持键盘通过配置文件配置按键映射规则	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530XK](https://gitee.com/open_harmony/dashboard?issue_id=I530WP) | 【新增特性】支持键盘类型识别	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530WP](https://gitee.com/open_harmony/dashboard?issue_id=I530WM) | 【新增特性】支持触摸点工具类型属性	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530WM](https://gitee.com/open_harmony/dashboard?issue_id=I530XL) | 【新增特性】支持触摸点触摸区域属性	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530XL](https://gitee.com/open_harmony/dashboard?issue_id=I530WI) | 【新增特性】支持按键能力识别	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530WI](https://gitee.com/open_harmony/dashboard?issue_id=I530WJ) | 【新增特性】支持Linux Input手写笔压感合成	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530WJ](https://gitee.com/open_harmony/dashboard?issue_id=I530WH) | 【新增特性】支持Linux Input手写笔倾角	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530WH](https://gitee.com/open_harmony/dashboard?issue_id=I530XJ) | 【新增特性】支持Linux Input手写笔功能按键输入事件接收并分发	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I50MMB](https://gitee.com/openharmony/drivers_adapter_khdf_linux/issues/I50MMB) | 【增强特性】MMC现有驱动框架及适配驱动优化           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5805B](https://gitee.com/openharmony/aafwk_standard/issues/I5805B) | 【增强特性】AMS ANR功能优化                                  | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I580B2](https://gitee.com/openharmony/aafwk_standard/issues/I580B2) | 【新增特性】查询系统是否支持卡片使用方添加卡片到桌           | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I580GE](https://gitee.com/openharmony/aafwk_standard/issues/I580GE) | 【新增特性】FA卡片提供方升级卸载管理                         | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I580IF](https://gitee.com/openharmony/aafwk_standard/issues/I580IF) | 【新增特性】应用启动支持跳转应用市场下载页面                 | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I580IQ](https://gitee.com/openharmony/aafwk_standard/issues/I580IQ) | 【ability_runtime部件】部件名仓名和目录整改                  | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I580JB](https://gitee.com/openharmony/aafwk_standard/issues/I580JB) | 【新增特性】上报adj模块系统应用被杀后是否能够正常恢复        | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I580JM](https://gitee.com/openharmony/aafwk_standard/issues/I580JM) | 【新增特性】支持系统应用ability不在最新任务列表显示          | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I580JW](https://gitee.com/openharmony/aafwk_standard/issues/I580JW) | 【增强特性】部件依赖整改                                     | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I580KA](https://gitee.com/openharmony/aafwk_standard/issues/I580KA) | 【增强特性】支持获任务取低分辨率snapshot                     | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I580KL](I580KL)                                             | 【新增规格】【元能力子系统】元能力子系统的SELinux策略配置    | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I580LF](https://gitee.com/openharmony/aafwk_standard/issues/I580LF) | 【新增规格】运行时按需加载ABC模块                            | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I58418](https://gitee.com/openharmony/notification_ces_standard/issues/I58418) | 【新增规格】【事件通知子系统】事件通知子系统的SELinux策略配置 | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I582ST](https://gitee.com/openharmony/notification_ans_standard/issues/I582ST) | 【新增规格】支持配置通知清理事件                             | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I582TF](https://gitee.com/openharmony/notification_ans_standard/issues/I582TF) | 【增强特性】通知渠道信息设置和查询增强                       | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I582UL](https://gitee.com/openharmony/notification_ans_standard/issues/I582UL) | 【增强特性】分布式通知同步增强                               | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I582Y4](https://gitee.com/openharmony/notification_ces_standard/issues/I582Y4) | 【DFX打点】【事件通知子系统】提供系统事件、SA dump、trace打点 | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I5DC5E](https://gitee.com/openharmony/powermgr_battery_statistics/issues/I5DC5E) | 【增强特性】Camera耗电统计 | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I5DC7M](https://gitee.com/openharmony/powermgr_battery_statistics/issues/I5DC7M) | 【增强特性】Audio耗电统计 | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I5DC8L](https://gitee.com/openharmony/powermgr_battery_statistics/issues/I5DC8L) | 【增强特性】Timer功耗DFX | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I5DOI3](https://gitee.com/openharmony/powermgr_power_manager/issues/I5DOI3) | 【增强特性】power_manager及display_power_manager的重启恢复机制 | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I5DOIE](https://gitee.com/openharmony/powermgr_battery_manager/issues/I5DOIE) | 【增强特性】battery_manager的重启恢复机制 | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I5B070](https://gitee.com/openharmony/powermgr_power_manager/issues/I5B070) | 【增强特性】电源管理服务内存基线 | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I56WD7](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56WD7) | 【新增特性】支持查询默认应用               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56WDJ](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56WDJ) | 【新增特性】支持更改默认应用               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56WDR](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56WDR) | 【新增特性】支持恢复系统默认应用               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56W2E](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W2E) | 【新增规格】【包管理子系统】包管理子系统的SELinux策略配置               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56W2N](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W2N) | 【packing_tool部件】支持应用窗口的属性字段               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56WFD](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56WFD) | 【新增特性】提供查询metadata resource的js接口               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56WEK](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56WEK) | 【新增特性】支持按文件类型设置默认应用               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56WDY](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56WDY) | 【新增特性】支持三方应用把自己设置为默认应用               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I5ERJT](https://gitee.com/openharmony/useriam_user_auth_framework/issues/I5ERJT) | 【新增规格】用户IAM子系统SELinux策略配置 | 标准系统 | SIG_ApplicationFramework | [@wangxu43](https://gitee.com/wangxu43) |
+[I5EPCD](https://gitee.com/openharmony/useriam_user_auth_framework/issues/I5EPCD?from=project-issue) | 支持完成指定用户的指纹录入【框架】 | 用户IAM子系统 | SIG_Security |  [@wangxu](https://gitee.com/wangxu43) |
+[I5EPCM](https://gitee.com/openharmony/useriam_user_auth_framework/issues/I5EPCM?from=project-issue) | 支持完成指定用户的指纹认证和指纹识别【框架】| 用户IAM子系统 | SIG_Security |  [@wangxu](https://gitee.com/wangxu43)  |
+[I5EPCU](https://gitee.com/openharmony/useriam_user_auth_framework/issues/I5EPCU?from=project-issue) | 支持完成指定用户的指纹认证删除【框架】| 用户IAM子系统 | SIG_Security |  [@wangxu](https://gitee.com/wangxu43)  |
+[I5D6CQ](https://gitee.com/openharmony/security_selinux/issues/I5D6CQ) | 【新增规格】【驱动子系统】驱动子系统SELinux策略配置            | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5DVBW](https://e.gitee.com/open_harmony/dashboard?issue=I5DVBW) | 【新增特性】新增音频音效控制           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5CXAB](https://gitee.com/openharmony/drivers_hdf_core/issues/I5CXAB) | 【增强特性】支持红外设备输入           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I571EI](https://gitee.com/openharmony/drivers_hdf_core/issues/I571EI) | 【新增特性】基于HDF驱动框架提供心率计Sensor驱动能力           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5E3IQ](https://gitee.com/openharmony/usb_manager/issues/I5E3IQ) | 【增强特性】增强USB设备模式，兼容Linux原生接口           | 标准系统 | SIG_UsbManager | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5ESLP](https://gitee.com/openharmony/drivers_peripheral/issues/I5ESLP) | 【增强特性】增强显示设备管理及硬件合成接口能力，并扩展色彩配置能力           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5DUOW](https://gitee.com/openharmony/drivers_peripheral/issues/I5DUOW) | 【新增特性】增强HDF WLAN DAL的能力           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I530XJ](https://gitee.com/open_harmony/dashboard?issue_id=I530X8) | 【新增特性】支持系统按键自动重复	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530X8](https://gitee.com/open_harmony/dashboard?issue_id=I530WO) | 【新增特性】支持通过配置文件配置按键映射规则	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530WO](https://gitee.com/open_harmony/dashboard?issue_id=I530UN) | 【新增特性】支持触摸点工具区域属性	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530UN](https://gitee.com/open_harmony/dashboard?issue_id=I530YF) | 【新增特性】窗口多热区分发机制	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530YF](https://gitee.com/open_harmony/dashboard?issue_id=I530WK) | 【新增规格】【多模输入】【input】SELinux策略配置	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I580MY](https://gitee.com/openharmony/aafwk_standard/issues/I580MY) | 【新增特性】fms支持dump                      | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I580NR](https://gitee.com/openharmony/aafwk_standard/issues/I580NR) | 【新增特性】数据库文件切换路径               | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I580OA](https://gitee.com/openharmony/aafwk_standard/issues/I580OA) | 【新增特性】stage模型卡片能力补齐            | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581GX](https://gitee.com/openharmony/aafwk_standard/issues/I581GX) | 【新增特性】AMS支持打开沙箱应用              | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581HE](https://gitee.com/openharmony/aafwk_standard/issues/I581HE) | 【新增特性】FA模型支持windows平台轻量模拟    | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581JD](https://gitee.com/openharmony/aafwk_standard/issues/I581JD) | 【新增特性】Stage模型支持windows平台轻量模拟 | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581JY](https://gitee.com/openharmony/aafwk_standard/issues/I581JY) | 【增强特性】常驻进程白名单                   | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581KD](https://gitee.com/openharmony/aafwk_standard/issues/I581KD) | 【增强特性】dataAbility兼容                  | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581KO](https://gitee.com/openharmony/aafwk_standard/issues/I581KO) | 【增强特性】运行管理服务新增线程             | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581L0](https://gitee.com/openharmony/aafwk_standard/issues/I581L0) | 【新增特性】应用上下文支持监听系统状态       | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581LC](https://gitee.com/openharmony/aafwk_standard/issues/I581LC) | 【新增特性】清理整个应用后，发送公共事件     | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581LR](https://gitee.com/openharmony/aafwk_standard/issues/I581LR) | 【增强特性】清理任务时，清理整个应用         | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581M3](https://gitee.com/openharmony/aafwk_standard/issues/I581M3) | 【新增特性】应用选择框                       | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581MR](https://gitee.com/openharmony/aafwk_standard/issues/I581MR) | 【新增特性】ACE 声明式框架适配新的JS runtime | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581ND](https://gitee.com/openharmony/aafwk_standard/issues/I581ND) | 【新增特性】Stage模型适配新的JS runtime      | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581PY](https://gitee.com/openharmony/aafwk_standard/issues/I581PY) | 【新增特性】JS runtime支持日志打印           | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I581QJ](https://gitee.com/openharmony/aafwk_standard/issues/I581QJ) | 【新增特性】抽取JS runtime对接vm             | 标准系统   | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I582SD](https://gitee.com/openharmony/notification_ans_standard/issues/I582SD) | 【DFX】【增强特性】通知DFX能力增强           | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I582V2](https://gitee.com/openharmony/notification_ces_standard/issues/I582V2) | 【新增规格】支持点对点发送事件               | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I582XB](https://gitee.com/openharmony/notification_ces_standard/issues/I582XB) | 【新增规格】工具适配多用户                   | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
+[I5DOLA](https://gitee.com/openharmony/powermgr_thermal_manager/issues/I5DOLA) | 【新增特性】适配SOC资源管控框架 | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I5DC9H](https://gitee.com/openharmony/powermgr_battery_statistics/issues/I5DC9H) | 【增强特性】分布式任务调度功耗DFX | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I5DONL](https://gitee.com/openharmony/powermgr_thermal_manager/issues/I5DONL) | 【新增特性】充电资源管控框架 | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I5DOP4](https://gitee.com/openharmony/powermgr_thermal_manager/issues/I5DOP4) | 【新增特性】热维测DFX | 标准系统 | SIG_HardwareMgr | [@aqxyjay](https://gitee.com/aqxyjay) |
+[I56W7P](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W7P) | 【新增特性】包管理服务内存基线               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56WCV](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56WCV) | 【新增特性】支持查询指定应用的PackInfo信息               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56W83](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W83) | 【新增特性】支持组件的迁移前检查               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I59ZMR](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I59ZMR) | 【新增特性】包管理支持众测应用               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I56W26](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I56W26) | 【bundle_framework部件】部件名、仓名和目录整改               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I5A7OV](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I5A7OV) | 【新增特性】包管理提供NDK接口，获取当前包的包名和证书指纹信息               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I5ACYA](https://gitee.com/openharmony/bundlemanager_bundle_framework/issues/I5ACYA) | 【新增特性】app图标支持模块化得方式获取               | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao)       |
+[I5214K](https://e.gitee.com/open_harmony/dashboard?issue=I5214K) | 【新增特性】Audio usb插拔识别及事件上报            | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5F411](https://gitee.com/openharmony/drivers_hdf_core/issues/I5F411) | 【增强特性】马达效果能力增强           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I528DG](https://gitee.com/openharmony/drivers_peripheral/issues/I528DG) | 【新增特性】支持Codec 2.0参考实现，简化适配难度           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5ETTJ](https://gitee.com/openharmony/drivers_hdf_core/issues/I5ETTJ) | 【新增特性】MMC适配Liteos_m内核           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5DJE5](https://gitee.com/openharmony/drivers_framework/issues/I5DJE5) | 【增强特性】兼容Linux uevent事件上报机制，增强设备即插即用功能           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5FK6J](https://gitee.com/openharmony/drivers_peripheral/issues/I5FK6J) | 【增强特性】提供软件Vsync机制，保障图形合成渲染同步           | 标准系统 | SIG_DriverFramework | [@ji-fengfei](https://gitee.com/ji-fengfei) |
+[I5EHGF](https://gitee.com/openharmony/distributeddatamgr_appdatamgr/issues/I5EHGF) | 【资料】DataShare跨应用数据管理           | 标准系统 |SIG_DataManagement | [@srr101](https://gitee.com/srr101) |
+[I5FWVI](I5FWVI) | 【新增规格】用户IAM子系统DFX | 标准系统 | SIG_ApplicationFramework | [@wangxu43](https://gitee.com/wangxu43) |
+[I530WK](https://gitee.com/open_harmony/dashboard?issue_id=I530UT) | 【新增特性】支持触摸点压力属性	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530UT](https://gitee.com/open_harmony/dashboard?issue_id=I530YB) | 【新增特性】JS API Mock	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I530YB](https://gitee.com/openharmony/multimodalinput_input/issues/I5HMBS) | 【DFX打点】【多模输入子系统】提供系统事件、SA dump、trace打点	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I5HMBS](https://gitee.com/openharmony/multimodalinput_input/issues/I5HMDY) | 【input部件】键鼠自适应布局适配	|标准系统|SIG-Basicsoftwareservice|[@hhh2](https://gitee.com/hhh2)|
+[I5NU4L](https://gitee.com/openharmony/hiviewdfx_hilog/issues/I5NU4L?from=project-issue) | 【新增特性】【hilog部件】系统domain白名单管理    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5NU71](https://gitee.com/openharmony/hiviewdfx_hilog/issues/I5NU71?from=project-issue) | 【新增特性】【hilog部件】日志统计功能    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5NU7F](https://gitee.com/openharmony/hiviewdfx_hilog/issues/I5NU7F?from=project-issue) | 【新增特性】【hilog部件】日志服务权限管理   | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5KDIG](https://gitee.com/openharmony/hiviewdfx_hiview/issues/I5KDIG?from=project-issue) | 【新增规格】【DFX子系统】【hisysevent部件】订阅功能提供应对系统事件风暴能力    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5L2RV](https://gitee.com/openharmony/hiviewdfx_hiview/issues/I5L2RV?from=project-issue) | 【新增规格】【DFX子系统】【hisysevent部件】查询功能提供应对系统事件风暴能力    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5LFCZ](https://gitee.com/openharmony/hiviewdfx_hiview/issues/I5LFCZ?from=project-issue) | 【新增规格】【DFX子系统】【hisysevent部件】系统事件存储处理提供应用系统事件风暴能力    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5FNPQ](https://gitee.com/openharmony/hiviewdfx_hisysevent/issues/I5FNPQ?from=project-issue) | 【新增规格】【DFX子系统】【hisysevent部件】系统事件打点接口提供应对事件风暴能力   | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5NTOS](https://gitee.com/openharmony/hiviewdfx_hiappevent/issues/I5NTOS?from=project-issue) | 【新增规格】【DFX子系统】【hiappevent部件】hiappevent的事件清理能力    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5NTOD](https://gitee.com/openharmony/hiviewdfx_hhiappevent/issues/I5NTOD?from=project-issue) | 【新增规格】【DFX子系统】【hiappevent部件】hiappevent的事件查询能力    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5LB4N](https://gitee.com/openharmony/hiviewdfx_hiappevent/issues/I5LB4N?from=project-issue) | 【新增规格】【DFX子系统】【hiappevent部件】hiappevent的事件订阅能力    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5KYYI](https://gitee.com/openharmony/hiviewdfx_hiappevent/issues/I5KYYI?from=project-issue) | 【新增规格】【DFX子系统】【hiappevent部件】hiappevent的事件分发能力    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5K0X6](https://gitee.com/openharmony/hiviewdfx_hiappevent/issues/I5K0X6?from=project-issue) | 【新增规格】【DFX子系统】【hiappevent部件】hiappevent的事件管理能力    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5NULM](https://gitee.com/openharmony/hiviewdfx_hiview/issues/I5NULM?from=project-issue) | 【新增规格】【DFX子系统】【hiview部件】提供读取内核事件处理能力    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5NXHX](https://gitee.com/openharmony/developtools_profiler/issues/I5NXHX?from=project-issue) | 【新增特性】支持CPU调优垂直整合JS napi和native栈关联    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5NX04](https://gitee.com/openharmony/hiviewdfx_hidumper/issues/I5NX04?from=project-issue) | 【新增特性】调用MEMTRACK hidl接口，支持获取GPU等设备占用的内存    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I5GXTG](https://gitee.com/openharmony/hiviewdfx_hidumper/issues/I5GXTG?from=project-issue) | 【新增特性】hidumper权限隐私优化    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[5NWZQ](https://gitee.com/openharmony/hiviewdfx_hidumper/issues/I5NWZQ?from=project-issue) | 【新增特性】对进程SMAPS进一步进行分类，在hidumper信息导出时候展示更加细致的分类信息    | 标准系统 | SIG_BasicSoftwareService  | [@stone2050](https://gitee.com/stone2050) |
+[I581R1](https://gitee.com/openharmony/aafwk_standard/issues/I581R1) | 【新增特性】JS runtime支持timer | 标准系统 | SIG_ApplicationFramework | [@xzz_0810](https://gitee.com/xzz_0810) |
 >  
 
 

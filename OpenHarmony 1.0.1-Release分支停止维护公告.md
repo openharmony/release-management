@@ -6,4 +6,4 @@
 
 如有任何疑问，请联系分支Maintainer [@钟小明](https://gitee.com/shermanzhong)。
 
-Release SIG<br/>2023年3月31日
+<p align="right">Release SIG<br/>2023年3月31日</p>

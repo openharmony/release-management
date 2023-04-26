@@ -461,17 +461,17 @@
 
 | no   | issue                                                        | feture description                                           | platform     | sig                  | owner                                             |
 | :--- | ------------------------------------------------------------ | :----------------------------------------------------------- | :--------- | :------------------- | :------------------------------------------------ |
-| 1   | I3XGJH | init基础环境构建                             | 轻量系统 | SIG_BscSoftSrv| [@xionglei6](https://gitee.com/xionglei6) |
-| 2   | I3XGKV | sytemparameter管理                            | 轻量系统 | SIG_BscSoftSrv| [@xionglei6](https://gitee.com/xionglei6) |
-| 3   | I3XGLN | init 脚本管理                            | 轻量系统 | SIG_BscSoftSrv| [@xionglei6](https://gitee.com/xionglei6) |
-| 4   | I3XGM3 | init 服务管理                            | 轻量系统 | SIG_BscSoftSrv| [@xionglei6](https://gitee.com/xionglei6) |
-| 5   | I3XGMQ | 基础权限管理                             | 轻量系统 | SIG_BscSoftSrv| [@xionglei6](https://gitee.com/xionglei6) |
-| 6   | I3XGN8 | bootimage构建和加载                             | 轻量系统 | SIG_BscSoftSrv| [@xionglei6](https://gitee.com/xionglei6) |
-| 7   | I3XGO7 | uevent 管理                            | 轻量系统 | SIG_BscSoftSrv| [@xionglei6](https://gitee.com/xionglei6) |
+| 1   | I3XGJH | init基础环境构建                             | 轻量系统 | SIG_BscSoftSrv| [@handyohos](https://gitee.com/handyohos) |
+| 2   | I3XGKV | sytemparameter管理                            | 轻量系统 | SIG_BscSoftSrv| [@handyohos](https://gitee.com/handyohos) |
+| 3   | I3XGLN | init 脚本管理                            | 轻量系统 | SIG_BscSoftSrv| [@handyohos](https://gitee.com/handyohos) |
+| 4   | I3XGM3 | init 服务管理                            | 轻量系统 | SIG_BscSoftSrv| [@handyohos](https://gitee.com/handyohos) |
+| 5   | I3XGMQ | 基础权限管理                             | 轻量系统 | SIG_BscSoftSrv| [@handyohos](https://gitee.com/handyohos) |
+| 6   | I3XGN8 | bootimage构建和加载                             | 轻量系统 | SIG_BscSoftSrv| [@handyohos](https://gitee.com/handyohos) |
+| 7   | I3XGO7 | uevent 管理                            | 轻量系统 | SIG_BscSoftSrv| [@handyohos](https://gitee.com/handyohos) |
 | 8   | I4BX5Z | 【需求】HiStreamer支持音频播放和控制             | 轻量系统 | SIG_GraphicsandMedia         | [@guodongchen](https://gitee.com/guodongchen) |
 | 9   | I4BX8A | 【需求】HiStreamer支持常见音频格式mp3/wav的播放   | 轻量系统 | SIG_GraphicsandMedia         | [@guodongchen](https://gitee.com/guodongchen) |
 | 10  | I4BX9E | 【需求】HiStreamer播放引擎框架需求               | 轻量系统 | SIG_GraphicsandMedia         | [@guodongchen](https://gitee.com/guodongchen) |
-| 11  | I3XGNM | 烧写模式支持                           | 轻量系统 | SIG_BscSoftSrv           | [@xionglei6](https://gitee.com/xionglei6) |
+| 11  | I3XGNM | 烧写模式支持                           | 轻量系统 | SIG_BscSoftSrv           | [@handyohos](https://gitee.com/handyohos) |
 | 12  | I4FL3F | 3516开发板多模输入触屏和Back适配验证                          | 标准系统 | SIG_HardwareMgr           | [@hhh2](https://gitee.com/hhh2) |
 | 13  | I4DK89 | 【需求】HiStreamer插件框架需求                              | 轻量系统 | SIG_GraphicsandMedia | [@guodongchen](https://gitee.com/guodongchen) |
 | 14  | I4DK8D | 【需求】HiStreamer性能和DFX需求                             | 轻量系统 | SIG_GraphicsandMedia | [@guodongchen](https://gitee.com/guodongchen) |
@@ -1118,10 +1118,10 @@
 | I4S36D | [标准系统]【部件化专项】ark_ide_support部件标准化 | 标准系统     | SIG_CompileRuntime       | [@huanghuijin](https://gitee.com/huanghuijin)         |
 | I4S36F | [标准系统]【部件化专项】ark_frontend_compiler部件标准化 | 标准系统     | SIG_CompileRuntime       | [@huanghuijin](https://gitee.com/huanghuijin)         |
 | I4S36G | [标准系统]【部件化专项】ark_runtime部件标准化 | 标准系统     | SIG_CompileRuntime       | [@huanghuijin](https://gitee.com/huanghuijin)         |
-| I4RXK2 | 【新增特性】支持为进程代持fd                      | 标准系统 | SIG_BscSoftSrv       | [@xionglei6](https://gitee.com/xionglei6)     |
-| I4RXJM | 【新增特性】支持进程根据热插拔事件按需启动                                | 标准系统 | SIG_BscSoftSrv       | [@xionglei6](https://gitee.com/xionglei6)     |
-| I4RXJ9 | 【新增特性】支持socket类进程按需启动                               | 标准系统 | SIG_BscSoftSrv       | [@xionglei6](https://gitee.com/xionglei6)     |
-| I4RXJ2 | 【新增规格】统一init维护命令                                | 标准系统 | SIG_BscSoftSrv       | [@xionglei6](https://gitee.com/xionglei6)     |
+| I4RXK2 | 【新增特性】支持为进程代持fd                      | 标准系统 | SIG_BscSoftSrv       | [@handyohos](https://gitee.com/handyohos)     |
+| I4RXJM | 【新增特性】支持进程根据热插拔事件按需启动                                | 标准系统 | SIG_BscSoftSrv       | [@handyohos](https://gitee.com/handyohos)     |
+| I4RXJ9 | 【新增特性】支持socket类进程按需启动                               | 标准系统 | SIG_BscSoftSrv       | [@handyohos](https://gitee.com/handyohos)     |
+| I4RXJ2 | 【新增规格】统一init维护命令                                | 标准系统 | SIG_BscSoftSrv       | [@handyohos](https://gitee.com/handyohos)     |
 | I4S6QC | 【资料】标准系统介绍资料需求                                | 标准系统 | SIG_Security       | [@wangxu](https://gitee.com/wangxu43)     |
 | I4LRGQ | [内核子系统]【新增特性】OpenHarmony内核基线使能     | 标准系统 | SIG_Kernel | [@liuyoufang](https://gitee.com/liuyoufang)       |
 | I4RU58 | 【部件化专项】【data_transit_mgr_lib部件】data_transit_mgr_lib部件标准化  | 标准系统   | SIG_Security  | [@wangyongzhong2](https://gitee.com/wangyongzhong2)  |
@@ -1130,7 +1130,7 @@
 | I4ITYY | [帐号子系统]支持应用账号基础鉴权功能    | 标准系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
 | I4SHYL | 【资料】app_account_standard部件应用账号管理需求    | 标准系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
 | I4QT4W | [账号子系统]【部件化专项】【os_account部件】部件标准化    | 标准系统 | SIG_BscSoftSrv | [@jiang-xiaofeng](https://gitee.com/jiang-xiaofeng)       |
-| I4WV31 | 【部件化专项】启动子系统部件标准化       | 标准系统 | SIG_BscSoftSrv       | [@xionglei6](https://gitee.com/xionglei6)     |
+| I4WV31 | 【部件化专项】启动子系统部件标准化       | 标准系统 | SIG_BscSoftSrv       | [@handyohos](https://gitee.com/handyohos)     |
 | I4WTQK | 【新增特性】鼠标双击选字                           | 标准系统|SIG_ArkUI|[@qieqiewl](https://gitee.com/qieqiewl) |
 | I4WTPE | 【新增规格】动画能力增强                          | 标准系统|SIG_ArkUI|[@qieqiewl](https://gitee.com/qieqiewl) |
 | I4WTPG | 【新增规格】基础动画参数配置增强                           | 标准系统|SIG_ArkUI|[@qieqiewl](https://gitee.com/qieqiewl) |
@@ -1232,9 +1232,9 @@
 | I4RTYN | 【新增特性】【南向】支持OEM厂家接入设备安全等级模块 | 标准系统 | SIG_Security | [@zhirenx](https://gitee.com/zhirenx) |
 | I4SY5E | 【packing_tool部件】支持打包工具将syscap二进制文件打包到hap包中 | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao) |
 | I4SY5G | 【bundle_manager部件】支持基于SysCap的应用安装 | 标准系统 | SIG_ApplicationFramework | [@shuaytao](https://gitee.com/shuaytao) |
-| I4TNBV | 【新增规格】进程启动配置能力增强                                | 标准系统 | SIG_BscSoftSrv       | [@xionglei6](https://gitee.com/xionglei6)     |
-| I4TNBL | 【新增特性】支持UHDF类进程按需启动                                | 标准系统 | SIG_BscSoftSrv       | [@xionglei6](https://gitee.com/xionglei6)     |
-| I4TNBQ | 【SysCap】启动恢复子系统支持SysCap机制                                | 标准系统 | SIG_BscSoftSrv       | [@xionglei6](https://gitee.com/xionglei6)     |
+| I4TNBV | 【新增规格】进程启动配置能力增强                                | 标准系统 | SIG_BscSoftSrv       | [@handyohos](https://gitee.com/handyohos)     |
+| I4TNBL | 【新增特性】支持UHDF类进程按需启动                                | 标准系统 | SIG_BscSoftSrv       | [@handyohos](https://gitee.com/handyohos)     |
+| I4TNBQ | 【SysCap】启动恢复子系统支持SysCap机制                                | 标准系统 | SIG_BscSoftSrv       | [@handyohos](https://gitee.com/handyohos)     |
 | I4HAMD | 【data_share_ability】支持对数据访问方式的控制                    | 标准系统   | SIG_DataManagement | [@verystone](https://gitee.com/verystone)         |
 | I4TJFZ | 【增强特性】DeviceAuth部件支持设备间互信关系认证的多用户隔离，使用指定系统用户下管理的互信关系进行认证                   | 标准系统   | SIG_Security | [@lvyuanmin](https://gitee.com/lvyuanmin)         |
 | I4TJG1 | 【增强特性】DeviceAuth部件实现互信群组数据多实例，支持指定用户的数据查询                    | 标准系统   | SIG_Security | [@lvyuanmin](https://gitee.com/lvyuanmin)         |
@@ -1406,8 +1406,8 @@
 | I4RGFY | 【DataShare】基于ExtensionAbility新框架重构并提供单设备上跨应用数据共享能力                    | 标准系统   | SIG_DataManagement | [@verystone](https://gitee.com/verystone)         |
 | I4QU0U | 【新增特性】延迟任务相关资料文档 | 标准系统 | SIG_BasicSoftwareService           | [@wangwenli_wolf](https://gitee.com/wangwenli_wolf)                  |
 | I4T9KH |【资料】PKI应用签名工具资料需求|标准系统| SIG_Security | [@zhiwei-liu](https://gitee.com/zhiwei-liu)|
-| I4UTCF | 【新增特性】进程分组及并行启动基础框架   | 标准系统 | SIG_BscSoftSrv| [@xionglei6](https://gitee.com/xionglei6) |
-| I4UTCM | 【新增规格】【新增特性】进程分组启动支持整机不同的启动功能   | 标准系统 | SIG_BscSoftSrv| [@xionglei6](https://gitee.com/xionglei6) |
+| I4UTCF | 【新增特性】进程分组及并行启动基础框架   | 标准系统 | SIG_BscSoftSrv| [@handyohos](https://gitee.com/handyohos) |
+| I4UTCM | 【新增规格】【新增特性】进程分组启动支持整机不同的启动功能   | 标准系统 | SIG_BscSoftSrv| [@handyohos](https://gitee.com/handyohos) |
 | I4UUUU | 【新增规格】DEMO测试，提供密钥管理全能力集的测试DEMO | 标准系统 | SIG_Security | [@chaos-liang](https://gitee.com/Chaos-Liang) |
 | I4TYFR | 【新增规格】HUKS在删除应用的情况下，HUKS需要删除相关的密钥数据 | 标准系统 | SIG_Security | [@chaos-liang](https://gitee.com/Chaos-Liang) |
 | I4TYFI | 【新增规格】HUKS在删除子用户情况下，需要删除相关的密钥数据 | 标准系统 | SIG_Security | [@chaos-liang](https://gitee.com/Chaos-Liang) |
@@ -1460,10 +1460,10 @@
 | I4QU0I | 【新增特性】采集数据处理 | 标准系统 | SIG_BasicSoftwareService           | [@wangwenli_wolf](https://gitee.com/wangwenli_wolf)                  |
 | I4QU0K | 【新增特性】配置信息变更更新 | 标准系统 | SIG_BasicSoftwareService           | [@wangwenli_wolf](https://gitee.com/wangwenli_wolf)                  |
 | I4QU0M |  资料专项 | 标准系统 | SIG_BasicSoftwareService           | [@wangwenli_wolf](https://gitee.com/wangwenli_wolf)                  |
-| I4UTC6 | 【新增规格】系统进程运行环境沙盒构建   | 标准系统 | SIG_BscSoftSrv| [@xionglei6](https://gitee.com/xionglei6) |
-| I4UTCO | 【增强特性】支持app进程孵化能力增强   | 标准系统 | SIG_BscSoftSrv| [@xionglei6](https://gitee.com/xionglei6) |
-| I4UTCY | 【增强特性】appspawn支持孵化的应用进程回收   | 标准系统 | SIG_BscSoftSrv| [@xionglei6](https://gitee.com/xionglei6) |
-| I4UTD0 | 【资料】init部件南向文档需求   | 标准系统 | SIG_BscSoftSrv| [@xionglei6](https://gitee.com/xionglei6) |
+| I4UTC6 | 【新增规格】系统进程运行环境沙盒构建   | 标准系统 | SIG_BscSoftSrv| [@handyohos](https://gitee.com/handyohos) |
+| I4UTCO | 【增强特性】支持app进程孵化能力增强   | 标准系统 | SIG_BscSoftSrv| [@handyohos](https://gitee.com/handyohos) |
+| I4UTCY | 【增强特性】appspawn支持孵化的应用进程回收   | 标准系统 | SIG_BscSoftSrv| [@handyohos](https://gitee.com/handyohos) |
+| I4UTD0 | 【资料】init部件南向文档需求   | 标准系统 | SIG_BscSoftSrv| [@handyohos](https://gitee.com/handyohos) |
 | I4U27N | 【新增特性】提供获取RawFileDescriptor的js接口                                     | 标准系统 | SIG_ApplicationFramework          | [@jameshw](https://gitee.com/jameshw)         |
 | I4VMGZ | [内核子系统]【新增特性】支持基础FPS智能感知调度功能     | 标准系统 | SIG_Kernel | [@liuyoufang](https://gitee.com/liuyoufang)       |
 | I4U089 | [内核子系统]【新增特性】内核调度支持绘帧线程优先供给机制     | 标准系统 | SIG_Kernel | [@liuyoufang](https://gitee.com/liuyoufang)       |

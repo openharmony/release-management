@@ -93,10 +93,10 @@ Beta阶段共转测216个需求，共发现200个问题
 **问题**：
 
 元能力
-执行xts用例，安装应用后出现批量aa start 失败，影响社区流水线测试：https://gitee.com/openharmony/aafwk_standard/issues/I4NF88
+执行xts用例，安装应用后出现批量aa start 失败，影响社区流水线测试：I4NF88
 低概率，正在复现解决
 
-AMS有个异常调用栈: https://gitee.com/openharmony/aafwk_standard/issues/I4NNBT
+AMS有个异常调用栈: I4NNBT
 低概率，正在复现解决
 
 
@@ -132,8 +132,8 @@ AMS有个异常调用栈: https://gitee.com/openharmony/aafwk_standard/issues/I4
 
 **问题**：
 
-【OpenHarmony 3.1.2.5】【ark子系统】 由进程com.amsst.amsMissionSnapshotTest导致crash，设备黑屏卡死：https://gitee.com/openharmony/ark_js_runtime/issues/I4OLHF?from=project-issue，低概率问题，只发生一次，6个小时
-【OpenHarmony 3.1.2.5】【ark子系统】 由进程com.ohos.systemui导致crash，设备卡死 https://gitee.com/openharmony/ark_js_runtime/issues/I4OLUK?from=project-issue ，低概率问题，只发生一次，6个小时
+【OpenHarmony 3.1.2.5】【ark子系统】 由进程com.amsst.amsMissionSnapshotTest导致crash，设备黑屏卡死：I4OLHF，低概率问题，只发生一次，6个小时
+【OpenHarmony 3.1.2.5】【ark子系统】 由进程com.ohos.systemui导致crash，设备卡死 I4OLUK，低概率问题，只发生一次，6个小时
 
 
 

@@ -109,7 +109,7 @@ repo forall -c 'git lfs pull'
 </tr>
 <tr id="row1697324472115"><td class="cellrowborder" valign="top" width="23.04%" headers="mcps1.2.4.1.1 "><p id="p19973154462114"><a name="p19973154462114"></a><a name="p19973154462114"></a>驱动</p>
 </td>
-<td class="cellrowborder" valign="top" width="41.6%" headers="mcps1.2.4.1.2 "><p id="p178202347481"><a name="p178202347481"></a><a name="p178202347481"></a><a href="https://gitee.com/openharmony/drivers_framework/issues/I3QE85" target="_blank" rel="noopener noreferrer">3QE85</a>：新增Audio、Camera、USB、马达、ADC驱动模型。</p>
+<td class="cellrowborder" valign="top" width="41.6%" headers="mcps1.2.4.1.2 "><p id="p178202347481"><a name="p178202347481"></a><a name="p178202347481"></a><a href="https://gitee.com/openharmony/drivers_hdf_core/issues/I3QE85" target="_blank" rel="noopener noreferrer">3QE85</a>：新增Audio、Camera、USB、马达、ADC驱动模型。</p>
 </td>
 <td class="cellrowborder" valign="top" width="35.36%" headers="mcps1.2.4.1.3 "><p id="p18438192992613"><a name="p18438192992613"></a><a name="p18438192992613"></a>LiteOS-M支持HDF框架。</p>
 </td>

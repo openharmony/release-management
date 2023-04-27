@@ -15,7 +15,7 @@ SIG Release 的主要工作职责是在社区协调各SIG的Leader、QA等各个
 
 
 ## 会议纪要归档
-release management sig历次会议纪要均做归档，详情请查询历史[sig-release说明](https://gitee.com/openharmony/community/tree/master/sig/sig-release/meetings)
+release management sig历次会议纪要均做归档，详情请查询历史[sig_release说明](https://gitee.com/openharmony/community/tree/master/sig/sig_release/meetings)
 
 ## SIG组成员
  

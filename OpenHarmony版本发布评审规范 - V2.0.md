@@ -4,7 +4,7 @@
 
 - 测试要求：待发布版本需经过测试SIG测试，并获得测试通过的报告。
 - 法务合规要求：待发布版本需遵从《OpenHarmony项目许可证指导》（待发布）、《[许可证与版权规范](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E8%AE%B8%E5%8F%AF%E8%AF%81%E4%B8%8E%E7%89%88%E6%9D%83%E8%A7%84%E8%8C%83.md)》与《[第三方开源软件引入指导](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E5%BC%95%E5%85%A5%E6%8C%87%E5%AF%BC.md)》，并满足合规SIG发布的所有合规要求。
-- 质量要求：待发布版本需满足QA SIG发布的《[版本质量要求](https://gitee.com/openharmony/community/blob/master/sig/sig-QA/%E7%89%88%E6%9C%AC%E8%B4%A8%E9%87%8F%E8%A6%81%E6%B1%82.md)》
+- 质量要求：待发布版本需满足QA SIG发布的《[版本质量要求](https://gitee.com/openharmony/community/blob/master/sig/sig_qa/%E7%89%88%E6%9C%AC%E8%B4%A8%E9%87%8F%E8%A6%81%E6%B1%82.md)》
 
 ## **版本发布评审**
 

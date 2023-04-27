@@ -100,7 +100,7 @@
 
  
 
- 相机框架实现调整导致用例不通过，需要适配：https://gitee.com/openharmony/multimedia_camera_standard/issues/I54D32 
+ 相机框架实现调整导致用例不通过，需要适配：I54D32 
 
 ###  **4.3** 稳定性专项测试结论 
 

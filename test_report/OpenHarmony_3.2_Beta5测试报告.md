@@ -196,7 +196,7 @@ https://gitee.com/openharmony/xts_acts/issues/I6BRTS
 
 5、web浏览器打开天猫网页从上往下滑帧率不达标问题。https://gitee.com/openharmony/web_webview/issues/I6A80S
 
-6、首次开机和非首次开机时长不达标问题。https://gitee.com/openharmony/release-management/issues/I6BQ18
+6、首次开机和非首次开机时长不达标问题。I6BQ18
 
 7、联系人应用打开卡顿问题。https://gitee.com/openharmony/release-management/issues/I6BQ2P
 
@@ -212,7 +212,7 @@ https://gitee.com/openharmony/xts_acts/issues/I6BRTS
 | ---------------- | ------------------------------------------------------------ | ------------- | -------------------------------------- |
 | 代码安全检视     | 各模块依据[OpenHarmony安全编码规范](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/OpenHarmony-c-cpp-secure-coding-guide.md)，进行代码安全检视，检视问题均需要修复。 | Go with risk  | I5XYRX、I5YTYX、I5YU16、I5YUB4、I5YUBS |
 | 静态编码扫描     | 使用安全编码扫描工具扫描测试，扫描告警结果清零。OpenHarmony代码门禁已集成一款安全编码扫描工具。 | Go            |                                        |
-| 编译选项验证     | 依据[OpenHarmony编译规范](https://gitee.com/openharmony/community/blob/master/sig/sig-buildsystem/编译规范.md)，使用编译选项扫描工具检查二进制文件编译选项开启情况，二进制文件编译选项均需要符合规范要求。 | Go            |                                        |
+| 编译选项验证     | 依据OpenHarmony编译规范，使用编译选项扫描工具检查二进制文件编译选项开启情况，二进制文件编译选项均需要符合规范要求。 | Go            |                                        |
 | 灰白盒Fuzz验证   | 针对接收并处理用户态参数模块，开发人员需依据[Fuzz测试框架](https://gitee.com/openharmony/test_developertest/tree/master/libs/fuzzlib)开发灰白盒Fuzz测试套，并完成灰白盒Fuzz测试验证。 | Go            |                                        |
 | 开源软件漏洞扫描 | 针对开源组件使用业界漏洞扫描工具扫描，开源组件漏洞均已按照社区漏洞管理流程修复。 | Go with riskt | I6BJ9Z 、I6BJ82                        |
 | 一致性验证       | 针对发布版本进行一致性验证，发布版本需构建签名且发布签名文件。 | NA            |                                        |

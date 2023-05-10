@@ -16,46 +16,46 @@ SIG Release会对维护分支进行长期的支持和维护，维护内容主要
 | Openharmony-v3.2.4-Release | Openharmony 3.2.4 Release | 2023/09/08   | 2023/09/08 | 2023/09/15   | 已规划 |
 | Openharmony-v3.2.3-Release | Openharmony 3.2.3 Release | 2023/07/08   | 2023/07/08 | 2023/07/15   | 已规划 |
 | Openharmony-v3.2.2-Release | Openharmony 3.2.2 Release | 2023/06/08   | 2023/06/08 | 2023/06/15   | 已规划 |
-| Openharmony-v3.2.1-Release | Openharmony 3.2.1 Release | 2023/04/28   | 2023/04/28 | 2023/05/05   | 发布中 |
+| Openharmony-v3.2.1-Release | Openharmony 3.2.1 Release | 2023/05/08   | 2023/05/08 | 2023/05/15   | 发布中 |
 | Openharmony-v3.2-Release   | Openharmony 3.2 Release   | 2023/03/06   | 2023/03/06 | 2023/03/13   | 已发布 |
 
 2.Openharmony 3.1 Release分支版本计划
 
 | 版本计划                   | 版本号                    | 版本构建日期 | 版本转测试 | 版本测试完成 | 状态   |
 | -------------------------- | ------------------------- | ------------ | ---------- | ------------ | ------ |
-| Openharmony-v3.1.7-Release | Openharmony 3.1.7 Release | 2023/03/22   | 2023/03/22 | 2023/03/29   | 已发布 |
+| Openharmony-v3.1.7-Release | Openharmony 3.1.7 Release | 2023/03/23   | 2023/03/23 | 2023/03/30   | 已发布 |
 | Openharmony-v3.1.6-Release | Openharmony 3.1.6 Release | 2023/01/30   | 2023/01/30 | 2023/02/06   | 已发布 |
-| Openharmony-v3.1.5-Release | Openharmony 3.1.5 Release | 2022/12/30   | 2022/12/30 | 2023/01/06   | 已发布 |
-| Openharmony-v3.1.4-Release | Openharmony 3.1.4 Release | 2022/10/27   | 2022/10/27 | 2022/11/03   | 已发布 |
-| Openharmony-v3.1.3-Release | Openharmony 3.1.3 Release | 2022/09/30   | 2022/09/30 | 2022/10/07   | 已发布 |
+| Openharmony-v3.1.5-Release | Openharmony 3.1.5 Release | 2023/01/03   | 2023/01/03 | 2023/01/10   | 已发布 |
+| Openharmony-v3.1.4-Release | Openharmony 3.1.4 Release | 2022/10/26   | 2022/10/26 | 2022/11/02   | 已发布 |
+| Openharmony-v3.1.3-Release | Openharmony 3.1.3 Release | 2022/09/23   | 2022/09/23 | 2022/09/30   | 已发布 |
 | Openharmony-v3.1.2-Release | Openharmony 3.1.2 Release | 2022/08/17   | 2022/08/17 | 2022/08/24   | 已发布 |
-| Openharmony-v3.1.1-Release | Openharmony 3.1.1 Release | 2022/05/23   | 2022/05/23 | 2022/05/30   | 已发布 |
+| Openharmony-v3.1.1-Release | Openharmony 3.1.1 Release | 2022/05/24   | 2022/05/24 | 2022/05/31   | 已发布 |
 | Openharmony-v3.1-Release   | Openharmony 3.1 Release   | 2022/03/23   | 2022/03/23 | 2022/03/30   | 已发布 |
 
 3.Openharmony 3.0 LTS分支版本计划
 
 | 版本计划               | 版本号                | 版本构建日期 | 版本转测试 | 版本测试完成 | 状态   |
 | ---------------------- | --------------------- | ------------ | ---------- | ------------ | ------ |
-| Openharmony-v3.0.8-LTS | Openharmony 3.0.7 LTS | 2023/02/14   | 2023/02/14 | 2023/02/21   | 已发布 |
-| Openharmony-v3.0.7-LTS | Openharmony 3.0.7 LTS | 2022/11/21   | 2022/11/21 | 2022/11/28   | 已发布 |
-| Openharmony-v3.0.6-LTS | Openharmony 3.0.6 LTS | 2022/09/02   | 2022/09/02 | 2022/09/09   | 已发布 |
-| Openharmony-v3.0.5-LTS | Openharmony 3.0.5 LTS | 2022/06/17   | 2022/06/17 | 2022/06/24   | 已发布 |
-| Openharmony-v3.0.3-LTS | Openharmony 3.0.3 LTS | 2022/03/22   | 2022/03/22 | 2022/03/29   | 已发布 |
-| Openharmony-v3.0.2-LTS | Openharmony 3.0.2 LTS | 2022/02/28   | 2022/02/28 | 2022/03/07   | 已发布 |
-| Openharmony-v3.0.1-LTS | Openharmony 3.0.1 LTS | 2021/12/29   | 2021/12/29 | 2022/01/05   | 已发布 |
-| Openharmony-v3.0-LTS   | Openharmony 3.0 LTS   | 2021/09/22   | 2021/09/22 | 2021/09/29   | 已发布 |
+| Openharmony-v3.0.8-LTS | Openharmony 3.0.8 LTS | 2023/02/23   | 2023/02/23 | 2023/03/03   | 已发布 |
+| Openharmony-v3.0.7-LTS | Openharmony 3.0.7 LTS | 2022/11/28   | 2022/11/28 | 2022/12/05   | 已发布 |
+| Openharmony-v3.0.6-LTS | Openharmony 3.0.6 LTS | 2022/09/08   | 2022/09/08 | 2022/09/15   | 已发布 |
+| Openharmony-v3.0.5-LTS | Openharmony 3.0.5 LTS | 2022/06/24   | 2022/06/24 | 2022/07/01   | 已发布 |
+| Openharmony-v3.0.3-LTS | Openharmony 3.0.3 LTS | 2022/04/01   | 2022/04/01 | 2022/04/08   | 已发布 |
+| Openharmony-v3.0.2-LTS | Openharmony 3.0.2 LTS | 2022/03/11   | 2022/03/11 | 2022/03/18   | 已发布 |
+| Openharmony-v3.0.1-LTS | Openharmony 3.0.1 LTS | 2022/01/05   | 2022/01/05 | 2022/01/12   | 已发布 |
+| Openharmony-v3.0-LTS   | Openharmony 3.0 LTS   | 2021/09/23   | 2021/09/23 | 2021/09/30   | 已发布 |
 
 4.Openharmony 1.0.1 release分支版本计划
 
 | 版本计划               | 版本号                | 版本构建日期 | 版本转测试 | 版本测试完成 | 状态   |
 | ---------------------- | --------------------- | ------------ | ---------- | ------------ | ------ |
-| Openharmony-v1.1.5-LTS | Openharmony 1.1.5 LTS | 2022/07/14   | 2022/07/14 | 2022/07/21   | 已发布 |
-| Openharmony-v1.1.4-LTS | Openharmony 1.1.4 LTS | 2022/01/28   | 2022/01/28 | 2022/02/04   | 已发布 |
+| Openharmony-v1.1.5-LTS | Openharmony 1.1.5 LTS | 2022/08/17   | 2022/08/17 | 2022/08/24   | 已发布 |
+| Openharmony-v1.1.4-LTS | Openharmony 1.1.4 LTS | 2022/02/04   | 2022/02/04 | 2022/02/11   | 已发布 |
 | Openharmony-v1.1.3-LTS | Openharmony 1.1.3 LTS | 2021/09/23   | 2021/09/23 | 2021/09/30   | 已发布 |
-| Openharmony-v1.1.2-LTS | Openharmony 1.1.2 LTS | 2021/08/02   | 2021/08/02 | 2021/08/09   | 已发布 |
-| Openharmony-v1.1.1-LTS | Openharmony 1.1.1 LTS | 2021/06/22   | 2021/06/22 | 2021/06/29   | 已发布 |
-| Openharmony-v1.1.0-LTS | Openharmony 1.1.0 LTS | 2021/04/01   | 2021/04/01 | 2021/04/08   | 已发布 |
-| Openharmony-v1.0-LTS   | Openharmony-v1.0-LTS  | 2020/09/19   | 2020/09/19 | 2020/09/26   | 已发布 |
+| Openharmony-v1.1.2-LTS | Openharmony 1.1.2 LTS | 2021/07/28   | 2021/07/28 | 2021/08/04   | 已发布 |
+| Openharmony-v1.1.1-LTS | Openharmony 1.1.1 LTS | 2021/06/15   | 2021/06/15 | 2021/06/22   | 已发布 |
+| Openharmony-v1.1.0-LTS | Openharmony 1.1.0 LTS | 2021/03/25   | 2021/03/25 | 2021/04/01   | 已发布 |
+| Openharmony-v1.0-LTS   | Openharmony-v1.0-LTS  | 2020/09/03   | 2020/09/03 | 2020/09/10   | 已发布 |
 
 
 

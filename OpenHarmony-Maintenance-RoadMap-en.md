@@ -15,8 +15,8 @@ OpenHarmony 3.2 Release Branch Version Plan
 | OpenHarmony-v3.2.5-Release | OpenHarmony 3.2.5 Release | 2023/11/08   | 2023/11/08 | 2023/11/15   | Planned|
 | OpenHarmony-v3.2.4-Release | OpenHarmony 3.2.4 Release | 2023/09/08   | 2023/09/08 | 2023/09/15   | Planned|
 | OpenHarmony-v3.2.3-Release| OpenHarmony 3.2.3 Release| 2023/07/08   | 2023/07/08 | 2023/07/15   | Planned|
-| OpenHarmony-v3.2.2-Release| OpenHarmony 3.2.2 Release| 2023/06/08   | 2023/06/08 | 2023/06/15   | Planned|
-| OpenHarmony-v3.2.1-Release| OpenHarmony 3.2.1 Release| 2023/05/08   | 2023/05/08 | 2023/05/15   | Releasing|
+| OpenHarmony-v3.2.2-Release| OpenHarmony 3.2.2 Release| 2023/06/20   | 2023/06/20 | 2023/06/27   | Released|
+| OpenHarmony-v3.2.1-Release| OpenHarmony 3.2.1 Release| 2023/05/15   | 2023/05/15 | 2023/05/22   | Released|
 | OpenHarmony-v3.2-Release  | OpenHarmony 3.2 Release  | 2023/03/06   | 2023/03/06 | 2023/03/13   | Released|
 
 OpenHarmony 3.1 Release Branch Version Plan

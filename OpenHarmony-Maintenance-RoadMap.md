@@ -15,8 +15,8 @@ SIG Release会对维护分支进行长期的支持和维护，维护内容主要
 | Openharmony-v3.2.5-Release | Openharmony 3.2.5 Release | 2023/11/08   | 2023/11/08 | 2023/11/15   | 已规划 |
 | Openharmony-v3.2.4-Release | Openharmony 3.2.4 Release | 2023/09/08   | 2023/09/08 | 2023/09/15   | 已规划 |
 | Openharmony-v3.2.3-Release | Openharmony 3.2.3 Release | 2023/07/08   | 2023/07/08 | 2023/07/15   | 已规划 |
-| Openharmony-v3.2.2-Release | Openharmony 3.2.2 Release | 2023/06/08   | 2023/06/08 | 2023/06/15   | 已规划 |
-| Openharmony-v3.2.1-Release | Openharmony 3.2.1 Release | 2023/05/08   | 2023/05/08 | 2023/05/15   | 发布中 |
+| Openharmony-v3.2.2-Release | Openharmony 3.2.2 Release | 2023/06/20   | 2023/06/20 | 2023/06/27   | 已发布 |
+| Openharmony-v3.2.1-Release | Openharmony 3.2.1 Release | 2023/05/15   | 2023/05/15 | 2023/05/22   | 已发布 |
 | Openharmony-v3.2-Release   | Openharmony 3.2 Release   | 2023/03/06   | 2023/03/06 | 2023/03/13   | 已发布 |
 
 2.Openharmony 3.1 Release分支版本计划

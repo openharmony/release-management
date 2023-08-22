@@ -6,8 +6,6 @@ OpenHarmony社区定期发布LTS/Release分支，并按照OpenHarmony生命周�
 
 **LTS**：LTS分支是在Release分支发布后，根据其使用范围和质量情况，经过社区评审变更为LTS（长期支持维护）分支，LTS分支维护生命周期长于Release分支。
 
-![lifecycle](figures/lifecycle.jpg)
-
 #### 生命周期管理策略：
 
 1，         Release分支生命周期为2年（1+1）。
@@ -18,4 +16,4 @@ OpenHarmony社区定期发布LTS/Release分支，并按照OpenHarmony生命周�
 
 4，         被动维护期：不再主动规划和发布标签版本，仅对社区严重以上的安全漏洞和缺陷进行修复。
 
-5，         单个分支的生命周期结束前，将以邮件和公告的方式知会。
+5，         以上为社区分支的默认生命周期，对需要调整生命周期的分支，由Release SIG发起，经PMC决策进行调整，并以邮件和公告的方式知会。

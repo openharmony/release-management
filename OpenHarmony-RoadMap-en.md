@@ -18,10 +18,6 @@
 | IT13         | OpenHarmony 4.0 Release | 10      | 2023/10/19    | 2023/10/20      | **2023/10/25**    |
 | IT14         | OpenHarmony 4.1 Beta1 | 11        | 2023/12/27    | 2023/12/28      | **2023/12/31**    |
 
-## OpenHarmony 3.1 Release Roadmap Overview
-
-**Statement**: The OpenHarmony roadmap is released every half a year. The actual supported features are subject to the final release.
-
 ## For more information
 https://gitee.com/openharmony/docs/tree/master/en/release-notes
 

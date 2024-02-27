@@ -22,7 +22,7 @@
 
 **Statement**: The OpenHarmony roadmap is released every half a year. The actual supported features are subject to the final release.
 
-## 1. For more information
+## For more information
 https://gitee.com/openharmony/docs/tree/master/en/release-notes
 
 # Feature Delivery List

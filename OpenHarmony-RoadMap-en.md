@@ -17,9 +17,8 @@
 | IT12         | OpenHarmony 4.0 Beta2 | 10        | 2023/7/26    | 2023/7/27      | **2023/7/31**    |
 | IT13         | OpenHarmony 4.0 Release | 10      | 2023/10/19    | 2023/10/20      | **2023/10/25**    |
 | IT14         | OpenHarmony 4.1 Beta1 | 11        | 2023/12/27    | 2023/12/28      | **2023/12/31**    |
+| IT15         | OpenHarmony 4.1 Release | 11        | 2024/3/15    | 2024/3/16      | **2024/3/30**    |
 
-## For more information
-https://gitee.com/openharmony/docs/tree/master/en/release-notes
 
 # Feature Delivery List
 

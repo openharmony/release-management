@@ -18,6 +18,8 @@
 | IT13         | OpenHarmony 4.0 Release | 10      | 2023/10/19    | 2023/10/20      | **2023/10/25**    |
 | IT14         | OpenHarmony 4.1 Beta1 | 11        | 2023/12/27    | 2023/12/28      | **2023/12/31**    |
 | IT15         | OpenHarmony 4.1 Release | 11        | 2024/3/15    | 2024/3/16      | **2024/3/30**    |
+| IT16         | OpenHarmony 5.0 Beta1 | 12        | 2024/6/10    | 2024/6/11      | **2024/6/20**    |
+| IT17         | OpenHarmony 5.0.0 Release | 12        | 2024/9/23    | 2024/9/24      | **2024/9/30**    |
 
 
 # Feature Delivery List

@@ -106,9 +106,9 @@
 
 | 测试类分类           | 准出标准（APR为牵引值）                                      | 质量状态 | 测试结果                                                     |
 | -------------------- | :----------------------------------------------------------- | -------- | ------------------------------------------------------------ |
-| 核心服务可靠性       | 1、mediaserver<br/>2、camera_server<br/>3、foundation<br/>4、Samgr<br/>5、hdf_devmgr<br/>6、appspawn<br/>7、softbus_server<br/>8、wifi_manager_se<br/>9、power_host<br/>10、accesstoken_ser<br/>11、render_service<br/> 各核心服务小于标准值0.1 | 不达标   | 4.1.2 Release版本测试数据：<br/>1、 foundation=1.07>0.1(标准值)<br/> |
-| 核心应用可靠性       | 1、com.ohos.mms<br/>2、com.ohos.photos<br/>3、com.ohos.note<br/>4、com.ohos.callui<br/>5、com.ohos.camera<br/>6、com.ohos.contacts<br/>7、com.ohos.settings<br/>8、com.ohos.launcher<br/>9、com.ohos.systemui <br/>10、com.ohos.screenlock<br/>11、com.ohos.filepicker<br/>12、com.example.kikakeyboard <br/>  各核心应用小于标准值0.1 | 不达标   | 4.1.2 Release版本测试数据：<br/>1、com.ohos.settings=2.78<br/>2、com.ohos.camera= 0.21 <br/>3、 com.ohos.note=0.21 <br/> |
-| 预置应用异常         | 跟随版本发布预置的应用范围< 3次/千小时                       | 不达标   | 4.1.2 Release版本测试数据：预制应用APR=6.52                  |
+| 核心服务可靠性       | 1、mediaserver<br/>2、camera_server<br/>3、foundation<br/>4、Samgr<br/>5、hdf_devmgr<br/>6、appspawn<br/>7、softbus_server<br/>8、wifi_manager_se<br/>9、power_host<br/>10、accesstoken_ser<br/>11、render_service<br/> 各核心服务小于标准值0.1 | 不达标   | 测试数据：<br/>1、 foundation=1.07>0.1(标准值)<br/> |
+| 核心应用可靠性       | 1、com.ohos.mms<br/>2、com.ohos.photos<br/>3、com.ohos.note<br/>4、com.ohos.callui<br/>5、com.ohos.camera<br/>6、com.ohos.contacts<br/>7、com.ohos.settings<br/>8、com.ohos.launcher<br/>9、com.ohos.systemui <br/>10、com.ohos.screenlock<br/>11、com.ohos.filepicker<br/>12、com.example.kikakeyboard <br/>  各核心应用小于标准值0.1 | 不达标   | 测试数据：<br/>1、com.ohos.settings=2.78<br/>2、com.ohos.camera= 0.21 <br/>3、 com.ohos.note=0.21 <br/> |
+| 预置应用异常         | 跟随版本发布预置的应用范围< 3次/千小时                       | 不达标   | 测试数据：预制应用APR=6.52                  |
 | 死机重启             | < 0.6 次/千小时                                              | 达标     | 无死机重启问题                                               |
 | 不开机(只统计OS导致) | 无OS导致的不开机关键问题                                     | 达标     | 无不开机问题                                                 |
 | 内存泄露             | 无内存泄漏问题                                               | 达标     | 无内存泄漏问题                                               |
@@ -205,7 +205,7 @@
 | IAE215 | 相机拍照生成缩略图场景基线1220ms，实际值1283.3ms，差基线63.3ms |
 | IB0EDJ | 图库缩略图列表滑动基线60帧，实际值56.2帧，差基线3.8帧        |
 | IANJ3R | 首次启动图库场景基线1404ms，实际值1491.6ms，差基线87.6ms     |
-| IB0EI  | 联系人列表滑动基线60帧，实际值51.7帧，差基线8.3帧            |
+| IB0EIE  | 联系人列表滑动基线60帧，实际值51.7帧，差基线8.3帧            |
 | IB0EL5 | 首次启动联系人场景基线1270ms，实际值1772.9ms，差基线502.9ms  |
 
 ### **4.5** **安全专项测试结论**

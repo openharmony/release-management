@@ -20,6 +20,14 @@
 | IT15         | OpenHarmony 4.1 Release | 11        | 2024/3/15    | 2024/3/16      | **2024/3/30**    |
 | IT16         | OpenHarmony 5.0 Beta1 | 12        | 2024/6/10    | 2024/6/11      | **2024/6/20**    |
 | IT17         | OpenHarmony 5.0.0 Release | 12        | 2024/9/23    | 2024/9/24      | **2024/9/30**    |
+| IT18         | OpenHarmony 5.0.1 Release | 13        | 2024/11/15    | 2024/11/16      | **2024/11/22**    |
+| IT19         | OpenHarmony 5.0.2 Release | 14        | 2025/1/15    | 2025/1/16      | **2025/1/22**    |
+| IT20         | OpenHarmony 5.0.3 Release | 15        | 2025/3/14    | 2025/3/15      | **2025/3/21**    |
+| IT21         | OpenHarmony 5.1.0 Release | 18        | 2025/4/25    | 2025/4/24      | **2025/4/30**    |
+| IT22         | OpenHarmony 6.0 Beta | 20        | 2025/6/12    | 2025/6/13      | **2025/6/19**    |
+| IT23         | OpenHarmony 6.0 Release | 20        | 2025/9/1    | 2025/9/2      | **2025/9/7**    |
+| IT24         | OpenHarmony 6.1 Beta | 23        | 2026/1/23    | 2026/1/24      | **2026/1/20**    |
+| IT25         | OpenHarmony 6.1 Release | 23        | 2025/3/26    | 2026/3/27      | **2026/3/23**    |
 
 
 # Feature Delivery List

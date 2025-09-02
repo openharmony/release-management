@@ -8,18 +8,33 @@ SIG Release provides long-term support and maintenance for maintenance branches 
 
 #### Tag Version Plan
 
-OpenHarmony 3.2 Release Branch Version Plan
+1.OpenHarmony 4.1 Release Branch Version Plan
 
 | Version Plan                  | Version Number                   | Version Build Date| Transfer-to-Test Date| Test Completion Date| Status  |
-| -------------------------- | ------------------------- | ------------ | ---------- | ------------ | ------ |
-| OpenHarmony-v3.2.5-Release | OpenHarmony 3.2.5 Release | 2023/11/08   | 2023/11/08 | 2023/11/15   | Planned|
-| OpenHarmony-v3.2.4-Release | OpenHarmony 3.2.4 Release | 2023/09/08   | 2023/09/08 | 2023/09/15   | Planned|
-| OpenHarmony-v3.2.3-Release| OpenHarmony 3.2.3 Release| 2023/07/08   | 2023/07/08 | 2023/07/15   | Planned|
-| OpenHarmony-v3.2.2-Release| OpenHarmony 3.2.2 Release| 2023/06/20   | 2023/06/20 | 2023/06/27   | Released|
+| --------------------------| -------------------------| ------------ | ---------- | ------------ | ------ |
+| Openharmony-v4.1.4-Release| Openharmony 4.1.4 Release| 2025/05/26   | 2025/05/26 | 2025/05/28   | Released|
+| Openharmony-v4.1.3-Release| Openharmony 4.1.3 Release| 2025/02/17   | 2025/02/17 | 2025/02/20   | Released|
+| Openharmony-v4.1.2-Release| Openharmony 4.1.2 Release| 2024/12/20   | 2024/12/20 | 2024/12/24   | Released|
+
+2.OpenHarmony 4.0 Release Branch Version Plan
+
+| Version Plan                  | Version Number                   | Version Build Date| Transfer-to-Test Date| Test Completion Date| Status  |
+| --------------------------| -------------------------| ------------ | ---------- | ------------ | ------ |
+| Openharmony-v4.0.4-Release| Openharmony 4.0.4 Release| 2024/10/25   | 2024/10/25 | 2024/10/29   | Released|
+| Openharmony-v4.0.3-Release| Openharmony 4.0.3 Release| 2024/08/20   | 2024/08/20 | 2024/08/23   | Released|
+| Openharmony-v4.0.2-Release| Openharmony 4.0.2 Release| 2024/07/03   | 2024/07/03 | 2024/07/05   | Released|
+
+3.OpenHarmony 3.2 Release Branch Version Plan (End of Maintenance)
+
+| Version Plan                  | Version Number                   | Version Build Date| Transfer-to-Test Date| Test Completion Date| Status  |
+| --------------------------| -------------------------| ------------ | ---------- | ------------ | ------ |
+| Openharmony-v3.2.4-Release| Openharmony 3.2.4 Release| 2023/11/10   | 2023/11/10 | 2023/11/15   | Released|
+| Openharmony-v3.2.3-Release| Openharmony 3.2.3 Release| 2023/08/30   | 2023/08/30 | 2023/09/01   | Released|
+| Openharmony-v3.2.2-Release| Openharmony 3.2.2 Release| 2023/06/20   | 2023/06/20 | 2023/06/27   | Released|
 | OpenHarmony-v3.2.1-Release| OpenHarmony 3.2.1 Release| 2023/05/15   | 2023/05/15 | 2023/05/22   | Released|
 | OpenHarmony-v3.2-Release  | OpenHarmony 3.2 Release  | 2023/03/06   | 2023/03/06 | 2023/03/13   | Released|
 
-OpenHarmony 3.1 Release Branch Version Plan
+4.OpenHarmony 3.1 Release Branch Version Plan (End of Maintenance)
 
 | Version Plan                  | Version Number                   | Version Build Date| Transfer-to-Test Date| Test Completion Date| Status  |
 | -------------------------- | ------------------------- | ------------ | ---------- | ------------ | ------ |
@@ -32,7 +47,7 @@ OpenHarmony 3.1 Release Branch Version Plan
 | OpenHarmony-v3.1.1-Release| OpenHarmony 3.1.1 Release| 2022/05/24   | 2022/05/24 | 2022/05/31   | Released|
 | OpenHarmony-v3.1-Release  | OpenHarmony 3.1 Release  | 2022/03/23   | 2022/03/23 | 2022/03/30   | Released|
 
-OpenHarmony 3.0 LTS Branch Version Plan
+5.OpenHarmony 3.0 LTS Branch Version Plan (End of Maintenance)
 
 | Version Plan              | Version Number               | Version Build Date| Transfer-to-Test Date| Test Completion Date| Status  |
 | ---------------------- | --------------------- | ------------ | ---------- | ------------ | ------ |
@@ -45,7 +60,7 @@ OpenHarmony 3.0 LTS Branch Version Plan
 | OpenHarmony-v3.0.1-LTS| OpenHarmony 3.0.1 LTS| 2022/01/05   | 2022/01/05 | 2022/01/12   | Released|
 | OpenHarmony-v3.0-LTS  | OpenHarmony 3.0 LTS  | 2021/09/23   | 2021/09/23 | 2021/09/30   | Released|
 
-OpenHarmony 1.0.1 Release Branch Version Plan (End of Maintenance)
+6.OpenHarmony 1.0.1 Release Branch Version Plan (End of Maintenance)
 
 | Version Plan              | Version Number               | Version Build Date| Transfer-to-Test Date| Test Completion Date| Status  |
 | ---------------------- | --------------------- | ------------ | ---------- | ------------ | ------ |

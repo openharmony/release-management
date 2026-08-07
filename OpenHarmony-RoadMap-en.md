@@ -30,7 +30,7 @@
 | IT25         | OpenHarmony 6.1 Release | 23        | 2026/2/27    | 2026/2/28      | **2026/3/6**    |
 | IT25         | OpenHarmony 6.1 LTS | 23        | 2026/6/25    | 2026/6/26      | **2026/6/30**    |
 | IT26         | OpenHarmony 7.0 Beta | 26        | 2026/6/5    | 2026/6/6      | **2026/6/12**    |
-| IT27         | OpenHarmony 7.0 Release | 26        | 2026/8/1    | 2026/8/2      | **2026/8/8**    |
+| IT27         | OpenHarmony 7.0 Release | 26        | 2026/8/11    | 2026/8/12      | **2026/8/18**    |
 
 
 # Feature Delivery List
